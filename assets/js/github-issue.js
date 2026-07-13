@@ -8,6 +8,12 @@ export function buildIssueUrl({ title, body, labels }) {
   return `https://github.com/${REPO}/issues/new?${params.toString()}`;
 }
 
+export function buildSearchUrl(frameName, engineName) {
+  const terms = [frameName, engineName, "swap"].filter(Boolean).join(" ");
+  const query = `site:ih8mud.com ${terms}`;
+  return `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+}
+
 export function buildDataSubmissionUrl(form) {
   const title = `Add build: ${form.frame || "?"} + ${form.engine || "?"}${
     form.transmission ? " + " + form.transmission : ""

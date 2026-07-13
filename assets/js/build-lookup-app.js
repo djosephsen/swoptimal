@@ -1,5 +1,5 @@
 import { fetchAll, sortedEntries, getBuildsFor } from "./data.js";
-import { buildDataSubmissionUrl } from "./github-issue.js";
+import { buildDataSubmissionUrl, buildSearchUrl } from "./github-issue.js";
 
 function populateSelect(select, entries, placeholder) {
   select.innerHTML = "";
@@ -107,6 +107,7 @@ async function main() {
   const frameSelect = document.getElementById("field-frame");
   const engineSelect = document.getElementById("field-engine");
   const resultsContainer = document.getElementById("swoptimal-build-results");
+  const searchButton = document.getElementById("swoptimal-search-combo");
 
   populateSelect(frameSelect, sortedEntries(data.frames), "Any frame");
   populateSelect(engineSelect, sortedEntries(data.engines), "Any engine");
@@ -130,11 +131,18 @@ async function main() {
       );
     }
     renderBuilds(resultsContainer, builds, data.frames, data.engines);
+    searchButton.disabled = !frameId && !engineId;
   }
 
   frameSelect.addEventListener("change", refresh);
   engineSelect.addEventListener("change", refresh);
   refresh();
+
+  searchButton.addEventListener("click", () => {
+    const frameName = data.frames[frameSelect.value]?.name;
+    const engineName = data.engines[engineSelect.value]?.name;
+    window.open(buildSearchUrl(frameName, engineName), "_blank", "noopener");
+  });
 
   document
     .getElementById("swoptimal-submit-data")
