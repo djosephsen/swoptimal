@@ -1,6 +1,7 @@
 import { fetchAll, sortedEntries } from "./data.js";
 import { resolveFitment } from "./fit.js";
 import { resolveStats } from "./estimate.js";
+import { checkTransCompatibility } from "./compat.js";
 import { METRICS } from "./metrics.js";
 import { renderRadar } from "./radar.js";
 import { buildDataSubmissionUrl } from "./github-issue.js";
@@ -33,7 +34,7 @@ function sourceBadge(source) {
   return span;
 }
 
-function renderSummary(container, { fit, stats }) {
+function renderSummary(container, { fit, stats, transNotes }) {
   container.innerHTML = "";
 
   const fitLine = document.createElement("p");
@@ -56,6 +57,18 @@ function renderSummary(container, { fit, stats }) {
     rpmLine.textContent = stats.rpmFlag.note;
     container.appendChild(rpmLine);
   }
+
+  if (stats.drivelineNote) {
+    const drivelineLine = document.createElement("p");
+    drivelineLine.textContent = stats.drivelineNote;
+    container.appendChild(drivelineLine);
+  }
+
+  (transNotes || []).forEach((n) => {
+    const line = document.createElement("p");
+    line.textContent = `[${n.level}] ${n.note}`;
+    container.appendChild(line);
+  });
 
   if (stats.sourceBuild) {
     const build = stats.sourceBuild;
@@ -150,8 +163,12 @@ async function main() {
       towWeight
     );
 
+    const transNotes = transId
+      ? checkTransCompatibility(data.engines[engineId], data.transmissions[transId])
+      : [];
+
     renderRadar(radarContainer, METRICS, stats);
-    renderSummary(summaryContainer, { fit, stats });
+    renderSummary(summaryContainer, { fit, stats, transNotes });
 
     lastFormValues = {
       frame: frameId,

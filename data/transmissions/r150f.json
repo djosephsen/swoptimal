@@ -6,5 +6,6 @@
   "torque_rating_nm": 300,
   "bellhousing_patterns": ["toyota-diesel-i4"],
   "factory_engines": ["2l-te"],
+  "control": "mechanical",
   "notes": ""
 }

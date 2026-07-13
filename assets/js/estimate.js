@@ -4,6 +4,16 @@ const KG_PER_LB = 0.453592;
 const REFERENCE_CURB_KG = 2270; // ~5000lb, a mid-pack curb weight across seeded frames
 const BASE_MPG = { diesel: 18, gas: 13 };
 
+// Automatics (especially older non-lockup/partial-lockup torque-converter
+// boxes like these) carry real parasitic loss a manual doesn't - applied
+// only to estimated figures, never to observed/reported real-world data.
+const DRIVELINE_EFFICIENCY = { manual: 1, automatic: 0.92 };
+
+function drivelineEfficiency(transmissions, transId) {
+  const trans = transId && transmissions[transId];
+  return (trans && DRIVELINE_EFFICIENCY[trans.type]) || 1;
+}
+
 function parseTireDiameterIn(tireSize) {
   const m = /^(\d+)\/(\d+)R(\d+)$/i.exec((tireSize || "").trim());
   if (!m) return null;
@@ -64,7 +74,7 @@ function rpmFlag(rpm, engine) {
 }
 
 export function resolveStats(
-  { frames, engines, builds },
+  { frames, engines, builds, transmissions },
   frameId,
   engineId,
   transId,
@@ -99,15 +109,22 @@ export function resolveStats(
   const diffRatio = gearing || frame.stock_diff_ratio;
   const tireDiameterIn = parseTireDiameterIn(tireSize || frame.stock_tire_size);
   const rpm = rpmAtSpeed(60, diffRatio, tireDiameterIn);
+  const efficiency = drivelineEfficiency(transmissions, transId);
+  const hp = engine.stock_hp * efficiency;
+  const tqNm = engine.stock_tq_nm * efficiency;
 
   return {
     source: "estimated",
-    hp: engine.stock_hp,
-    tq_nm: engine.stock_tq_nm,
-    mpg: estimateMpg(engine, frame, diffRatio, towWeightKg),
-    powerToWeight: powerToWeight(engine.stock_hp, frame.curb_weight_kg, towWeightKg),
-    torqueToWeight: torqueToWeight(engine.stock_tq_nm, frame.curb_weight_kg, towWeightKg),
+    hp,
+    tq_nm: tqNm,
+    mpg: estimateMpg(engine, frame, diffRatio, towWeightKg) * efficiency,
+    powerToWeight: powerToWeight(hp, frame.curb_weight_kg, towWeightKg),
+    torqueToWeight: torqueToWeight(tqNm, frame.curb_weight_kg, towWeightKg),
     rpmFlag: rpmFlag(rpm, engine),
     intercooler,
+    drivelineNote:
+      efficiency < 1
+        ? `Figures reduced ${Math.round((1 - efficiency) * 100)}% for automatic-transmission driveline loss vs. a manual.`
+        : null,
   };
 }

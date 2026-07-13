@@ -6,5 +6,6 @@
   "torque_rating_nm": 450,
   "bellhousing_patterns": ["toyota-diesel-i6"],
   "factory_engines": ["1hd-t"],
+  "control": "mechanical",
   "notes": ""
 }

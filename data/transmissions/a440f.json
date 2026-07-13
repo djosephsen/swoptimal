@@ -6,5 +6,6 @@
   "torque_rating_nm": 400,
   "bellhousing_patterns": ["toyota-gas-i6"],
   "factory_engines": ["2f"],
-  "notes": ""
+  "control": "mechanical",
+  "notes": "Governor/vacuum-modulator controlled, no TCU - predates Toyota's electronically controlled (ECT) automatics."
 }

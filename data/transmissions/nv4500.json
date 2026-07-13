@@ -6,5 +6,6 @@
   "torque_rating_nm": 700,
   "bellhousing_patterns": ["gm-ls", "cummins-r28-native"],
   "factory_engines": [],
+  "control": "mechanical",
   "notes": "Heavy-duty aftermarket swap box, common behind LS and Cummins swaps via adapter kits."
 }

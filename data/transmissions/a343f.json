@@ -6,5 +6,7 @@
   "torque_rating_nm": 400,
   "bellhousing_patterns": ["toyota-gas-i6"],
   "factory_engines": ["1fz-fe"],
-  "notes": ""
+  "control": "electronic",
+  "control_source": "estimated",
+  "notes": "Believed to use Toyota's electronically controlled (ECT) shift logic for this generation - flagged as unverified pending a real source."
 }
