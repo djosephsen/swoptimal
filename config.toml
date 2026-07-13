@@ -6,6 +6,7 @@ theme = "m10c"
 [params]
 author = "Dave Josephsen"
 description = "An engine-swap database and estimator for off-road truck chassis"
+menu_item_separator = ""
 
 [[menu.main]]
 identifier = "home"

@@ -1,3 +1,20 @@
+.app-header-wordmark {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--lightest-color, #fff);
+  letter-spacing: 0.02em;
+  margin-bottom: 1rem;
+}
+
+.app-header-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
 .swoptimal-form {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -31,6 +48,7 @@
 .swoptimal-radar svg {
   width: 100%;
   height: auto;
+  overflow: visible;
 }
 
 .swoptimal-summary {
