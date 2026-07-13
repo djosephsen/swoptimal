@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/60-series-1hdt-swap-help.1324477/",
+  "title": "60 series 1hdt swap help",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H55F 5-speed manual",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": "upgraded",
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "A 1986 FJ60 being built as a SEMA 2023 vehicle received a turbocharged 1HD-T (UFI 18G turbo) with a water-air intercooler and H55F 5-speed manual, plus a new transfer case. On initial startup the builder saw white smoke and engine shaking, which forum members attributed to air trapped in the fuel system rather than a fundamental swap defect.",
+  "complications": [
+    { "category": "other", "detail": "White smoke and engine shaking on first startup, diagnosed as air in the fuel system during priming" },
+    { "category": "fitment", "detail": "Questions raised about secondary fuel filter setup and glow plug function for cold starts" }
+  ],
+  "confidence": "high"
+}

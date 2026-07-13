@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fj62-1987-rebuild-and-1hz-diesel-swap.1247309/",
+  "title": "FJ62 (1987) rebuild, and 1HZ diesel swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H55F manual with 75-series bellhousing adapted for 1HZ - requires 21-spline fine-pitch input shaft (33311-60170) and 1HZ/HD-T flywheel",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "An in-progress, heavily documented rebuild-and-1HZ-swap of a 1987 FJ62 in Durban, South Africa, replacing the factory 3F petrol engine with a reconditioned 1HZ diesel. Builder sourced a 75-series bellhousing and the correct 21-spline input shaft/flywheel needed to mate the diesel to the H55F gearbox, while also addressing significant body rust and a cracked cab mount caused by deteriorated engine cushions.",
+  "complications": [
+    { "category": "fitment", "detail": "Petrol H55F uses a 10-spline input shaft incompatible with 1HZ; required 21-spline fine-pitch shaft and correct flywheel" },
+    { "category": "other", "detail": "Cab-mount crack found, attributed to deteriorated engine cushions; welded repair pending new bushings, plus significant gutter/fender rust requiring donor FJ60 panels" }
+  ],
+  "confidence": "medium"
+}

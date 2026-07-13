@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1994-fzj80-5-3l-swap-aka-bumpkinator.1180806/",
+  "title": "1994 FZJ80 5.3L swap aka Bumpkinator",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "4L60E with Stage 2 B&M shift kit and stock converter",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "1994 FZJ80 (400k original miles, LHD) swapped with a 2004 Chevy 5.3L Vortec LS (Bryan Tooley Stage 2 cam, deep motor intake) sourced from a 2004 Chevy Avalanche with under 60k miles, paired to a 4L60E with a Stage 2 B&M shift kit. Original engine failed its head gasket. Builder avoided a custom driveshaft by offsetting and raising the engine and using a low-profile Camaro transmission pan plus a flipped front driveline.",
+  "complications": [
+    { "category": "driveline", "detail": "Avoided a custom driveshaft by offsetting the engine 3/4in forward and 1/2in toward the driver side, raising it for clearance, using a low-profile transmission pan and Camaro oil pan, and flipping the front driveline" },
+    { "category": "electrical", "detail": "Used an aftermarket wiring harness; modified a Toyota neutral safety switch onto the 4L60E for dash gear-position lights; machined the Toyota coolant temp sensor from 16mm to 12mm threads to fit the LS head port; adapted the Toyota oil pressure sensor with British Standard Pipe threading" },
+    { "category": "fitment", "detail": "Motor mount modifications made using an Advanced Adapters kit" }
+  ],
+  "confidence": "high"
+}

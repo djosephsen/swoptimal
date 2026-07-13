@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1990-landcruiser-prado-70-series-build.1202510/",
+  "title": "1990 Landcruiser Prado 70 series Build",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "manual (original LJ78 gearbox retained)",
+  "gearing": null,
+  "tire_size": "31\" Yokohama A/T",
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "This 1990 LJ78 build thread documents a 1KZ-TE swap replacing the original 2L-T, while keeping the stock LJ78 manual gearbox, ECU, and wiring harness (which the builder himself calls 'a bit of an abomination'). Differentials were upgraded to KZJ78-spec units for a slightly higher ratio and to gain rear diff-lock capability, and the truck runs 31-inch Yokohama A/T tires. The vehicle remained a functioning daily driver used for river crossings and rock crawling, though the builder reported ongoing fuel-delivery underperformance affecting acceleration.",
+  "complications": [
+    { "category": "electrical", "detail": "Original LJ78 ECU and wiring retained despite the 1KZ-TE swap, creating a mismatched setup; also recurring seal-beam headlight fuse blowing" },
+    { "category": "other", "detail": "Fuel delivery system underperformance reducing acceleration versus expectations; rear axle seal failure addressed during the build" }
+  ],
+  "confidence": "high"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1-hd-t-fzj80-conversion.241324/",
+  "title": "1 HD-T FZJ80 Conversion",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "A442F automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Thread discusses planning a 1HD-T conversion into a 1997 FZJ80, focused on transmission/ECU compatibility: pre-August 1992 A442F transmissions use hydraulic/cable control while later ones are electronically controlled (ECT), and the 1997 FZJ80's combined engine/transmission computer complicates integrating an ECT-controlled diesel automatic. No confirmed completed build outcome is documented in the visible thread content.",
+  "complications": [
+    { "category": "electrical", "detail": "Matching ECT transmission electronics to the 1997 FZJ80's combined engine/transmission ECU requires specific harness sourcing (from 1993-94 models) or an aftermarket solution (~$750)" },
+    { "category": "other", "detail": "Warning that imported used 1HD-T engines may need inspection/rebuild before use given added stress from mountain driving" }
+  ],
+  "confidence": "medium"
+}

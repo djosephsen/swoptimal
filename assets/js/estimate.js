@@ -86,9 +86,21 @@ export function resolveStats(
   const frame = frames[frameId];
   const engine = engines[engineId];
 
-  const observed = getBuildsFor(builds, frameId, engineId).find(
+  // Multiple real builds can exist for the same combo - prefer the most
+  // complete report (most non-null observed fields), tie-broken by
+  // confidence, rather than whichever happens to iterate first.
+  const CONFIDENCE_RANK = { high: 3, medium: 2, low: 1 };
+  const observedCandidates = getBuildsFor(builds, frameId, engineId).filter(
     (b) => b.observed && (b.observed.hp || b.observed.tq_nm || b.observed.mpg)
   );
+  observedCandidates.sort((a, b) => {
+    const fieldCount = (o) =>
+      ["hp", "tq_nm", "mpg"].filter((k) => o.observed[k] != null).length;
+    const scoreOf = (o) =>
+      fieldCount(o) * 10 + (CONFIDENCE_RANK[o.confidence] || 0);
+    return scoreOf(b) - scoreOf(a);
+  });
+  const observed = observedCandidates[0];
 
   if (observed) {
     return {

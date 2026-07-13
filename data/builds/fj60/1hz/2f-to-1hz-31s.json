@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fj60-2f-to-1hz.22784/",
+  "title": "FJ60 2f to 1HZ",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H55F 5-speed (swapped in place of original 4-speed)",
+  "gearing": 3.70,
+  "tire_size": "31",
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": 21 },
+  "ai_summary": "A 1987 FJ60 conversion from the factory 2F gas engine to a 1HZ diesel paired with an H55F 5-speed, retaining stock 3.70 gears and axles. One participant reported 21+ mpg at 70-75 mph highway cruising while loaded, running 31-inch tires. Builders discussed 24V-to-12V electrical fixes, radiator/fan-shroud modification, and moving the exhaust from the driver to passenger side to fit the diesel engine.",
+  "complications": [
+    { "category": "electrical", "detail": "1HZ is 24V while FJ60 is 12V; options discussed included voltage converters or rewinding starter/alternator to 12V (~$75)" },
+    { "category": "cooling", "detail": "Radiator lower port did not align with 1HZ; builder cut/turned the port and fabricated a custom fan shroud" },
+    { "category": "fitment", "detail": "Exhaust exits passenger side on the 1HZ versus driver side on stock FJ60, requiring custom piping" }
+  ],
+  "confidence": "high"
+}

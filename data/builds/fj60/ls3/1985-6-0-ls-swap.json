@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1985-fj60-6-0-liter-ls-swap-build-thread.989012/",
+  "title": "1985 FJ60 -> 6.0 Liter LS Swap Build Thread",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "Rebuilt 4L65E automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "1985 FJ60 swapped with a 6.0L LQ4 (pulled from a Chevy 2500 Express van with ~70,000 miles) paired to a rebuilt 4L65E automatic, retaining the stock FJ60 transfer case via a custom transmission-to-transfer-case adapter. The original 2F/3FE petrol engine made roughly 140hp; no dyno figures were reported for the LS. Cooling was the biggest headache, later resolved with a larger dual-pass radiator.",
+  "complications": [
+    { "category": "cooling", "detail": "Initial CSF radiator/dual SPAL fan setup ran 210-220F under load; replaced with a Griffin 31x19x3 dual-pass radiator and 160-degree thermostat, bringing steady temps down to 170-175F" },
+    { "category": "fitment", "detail": "Front driveshaft clearance to the transmission, exhaust, and oil pan was tight; required oil pan modification and moving the engine forward in the bay" }
+  ],
+  "confidence": "high"
+}

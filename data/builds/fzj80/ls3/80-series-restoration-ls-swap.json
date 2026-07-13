@@ -1,0 +1,20 @@
+{
+  "url": "https://forum.ih8mud.com/threads/my-80-series-restoration-ls-swap-project.1368424/",
+  "title": "My 80 Series Restoration + LS Swap Project",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "4WD 4L80E",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "1996 80-series Land Cruiser LS-swapped after a head gasket failure, using a short-crank 2004 LQ4 6.0L machined with a 0.040-inch overbore, paired to a 4WD 4L80E transmission (fitted with a reluctor ring/VSS for Mark's adapter compatibility) and the retained stock transfer case. Engine was completed and installed by September 2025; front and rear driveshafts were being rebuilt for the added torque capacity.",
+  "complications": [
+    { "category": "cooling", "detail": "Switching to a Mosely 80-series LS radiator with integrated electric fan for simplified packaging" },
+    { "category": "driveline", "detail": "Front driveshaft needs roughly 3/4-inch shortening and the rear shaft likely needs lengthening; both being rebuilt for higher torque capacity" },
+    { "category": "electrical", "detail": "Original engine wiring harness was unusable; sourced a BP Automotive harness and sent the ECU to LT1Swap for base programming and tach signal modification" },
+    { "category": "fitment", "detail": "Required a GM crank spacer (P/N 12563532) and extended flexplate bolts; engine biased about 1 inch toward the driver side with a 3.5-degree tilt" }
+  ],
+  "confidence": "high"
+}

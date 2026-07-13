@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/need-insight-on-3fe-to-1hdt-swap.498556/",
+  "title": "Need insight on 3FE to 1HDT swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H150/H151 5-speed manual (discussed) or retained factory automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Owner of a 1991 gas (3FE-powered) 80-series Land Cruiser sought guidance on swapping in a 1HD-T (or 1HD-FT/12H-T alternatives), with experienced members recommending H150/H151 5-speed manuals as most desirable, welding in HDJ80 engine mounts, and estimating roughly $5,000 for engine plus supporting parts. This is a planning/advice thread rather than a documented completed build.",
+  "complications": [
+    { "category": "fitment", "detail": "Requires welding HDJ80 engine mounts into the FJ80 frame" },
+    { "category": "fitment", "detail": "Disagreement among members on whether firewall cutting is needed for clearance" }
+  ],
+  "confidence": "medium"
+}

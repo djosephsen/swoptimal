@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/back-in-a-60-series-1hz-swap.1026075/",
+  "title": "Back in a 60 series - 1HZ Swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H55F (retained from gas donor); still evaluating 1HDT/H55, 1HZ/H55, or Isuzu 4BD/H55 combinations",
+  "gearing": null,
+  "tire_size": "33",
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Build thread for a 1987 FJ60 (already lifted, on 33-inch tires, ARB bumper, roof rack) planning a diesel swap; early posts show the builder still weighing 1HDT/H55, 1HZ/H55, and Isuzu 4BD/H55 combinations rather than a confirmed completed 1HZ install. Toyota diesel engines quoted at $6k+, offset partly by reselling the original H55F/splitcase; forum consensus favored an H55F input-shaft swap as the path for 1HZ compatibility.",
+  "complications": [
+    { "category": "driveline", "detail": "H55F input shaft swap required for 1HZ compatibility, described by an experienced builder as the trickiest part of the job" },
+    { "category": "other", "detail": "Cost-benefit debate: $6-7k diesel engine cost weighed against resale value versus a non-restoration build" }
+  ],
+  "confidence": "low"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/another-one-1994-fzj80-ls-4l60e-swap-budget-hopefully.1273460/",
+  "title": "Another One!... 1994 FZJ80 LS/4L60E Swap (Budget, Hopefully)",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "2WD 4L60E via Mark's 4WD adapter to factory HF2A transfer case",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "1994 FZJ80 swap using an LQ4 6.0L pulled from a 2002 GMC Yukon XL Denali (~300k miles, still holding 40psi oil pressure at idle) to replace a 1FZ-FE that blew its head gasket at 300k miles. The donor's AWD 4L60E had the wrong spud shaft, so a separate 2WD 4L60E was sourced and mated to the factory HF2A transfer case via a Mark's 4WD adapter, targeting a sub-$2,000 out-of-pocket budget.",
+  "complications": [
+    { "category": "driveline", "detail": "Donor Yukon transmission was an AWD unit with the wrong spud shaft; had to source a separate 2WD 4L60E, and the Mark's 4WD adapter was on a months-long backorder from Advance Adapters" },
+    { "category": "fitment", "detail": "Special oil pan sourced to clear the front driveshaft; universal exhaust manifolds chosen hoping to clear the frame rails" },
+    { "category": "electrical", "detail": "Throttle body converted from drive-by-wire to drive-by-cable; ECU being reprogrammed and harness stripped/simplified" }
+  ],
+  "confidence": "high"
+}

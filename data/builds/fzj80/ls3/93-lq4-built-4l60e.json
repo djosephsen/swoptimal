@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1993-ls-swap-6-0l-lq4-and-built-4l60e.967580/",
+  "title": "1993 LS Swap (6.0L LQ4 and built 4L60e)",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "Built 4L60E Stage 2 (rated 450hp/500 lb-ft) via Mark's MFK1195AE6 adapter",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "1993 FZJ80 swapped with a low-mileage (~40,000 mi) 6.0L LQ4 paired to a built 4L60E Stage 2 transmission, using a Mark's MFK1195AE6 adapter to the retained factory HF2A transfer case. No dyno figures were reported; the build documents mostly exhaust and header fitment troubleshooting.",
+  "complications": [
+    { "category": "fitment", "detail": "Old rusted exhaust hangers had to be cut off; Hooker headers (PN 2312HKR) had uneven gasket sealing from a flange design change and were replaced by the manufacturer" },
+    { "category": "driveline", "detail": "Vehicle speed sensor from the original tailshaft required modification to fit the Mark's adapter" }
+  ],
+  "confidence": "high"
+}

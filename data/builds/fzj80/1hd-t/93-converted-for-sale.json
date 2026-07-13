@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1hd-t-converted-us-93-fzj80-for-sale.245758/",
+  "title": "1HD-T Converted US 93 FZJ80 for sale",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "A442F ECT automatic with upgraded valve body",
+  "gearing": null,
+  "tire_size": "285/75R16",
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": 20 },
+  "ai_summary": "A completed 1993 FZJ80 1HD-T conversion, listed for sale for roughly $18,000 CAD in parts/labor (excluding the vehicle), used the diesel's A442F ECT automatic upgraded with an 'Extreme Valve Body' for tighter shifts, a Walbro 6065 fuel lift pump to prevent injection-pump cavitation, and ceramic coating on the exhaust manifold/turbo dump for heat management. The seller reported about 20 mpg highway when loaded (24 mpg best recorded) and no cooling, reliability, or driveline problems, selling only because they were starting a new conversion on a 1997 truck.",
+  "complications": [
+    { "category": "electrical", "detail": "Electrical integration described as 'pretty involved' but manageable with correct JDM parts and factory documentation" },
+    { "category": "other", "detail": "Added a Walbro 6065 lift pump to prevent injection pump starvation/cavitation" }
+  ],
+  "confidence": "high"
+}

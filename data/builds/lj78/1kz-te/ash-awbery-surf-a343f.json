@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/lj78-to-1kzte.1263360/",
+  "title": "LJ78 to 1kzte",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "A343F automatic (Hilux Surf bellhousing/torque converter)",
+  "gearing": 4.88,
+  "tire_size": "35\" Land Dragons",
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Owner (Ash Awbery) swapped a Hilux Surf-sourced 1KZ-TE into an LJ78, keeping the A343F automatic via the Surf's bellhousing/torque converter and running 4.88 diffs with 35-inch tires. Running the 1KZ-TE's electronic injection pump off the original 2L-TE ECU caused white smoke, unburnt fuel, and high idle; the fix was fitting a 4M40 manual injection pump. He planned to eventually 'manualise' the drivetrain and add a Spitronics ECU for transmission control.",
+  "complications": [
+    { "category": "electrical", "detail": "2L-TE ECU incompatible with 1KZ-TE electronic injection pump (10mm vs 12mm pump fueling mismatch), causing white smoke and high idle despite potentiometer tuning attempts" },
+    { "category": "fitment", "detail": "2L-TE engine mounts required modification, but Surf bellhousing/torque converter bolted to the A343F with no major issues" }
+  ],
+  "confidence": "high"
+}

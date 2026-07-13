@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/overdue-build-thread-fj60-5-3-swap.1119200/",
+  "title": "Overdue Build Thread - Fj60 5.3 swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": null,
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "FJ60 Land Cruiser rebuilt around a 5.3L GM LS-family V8 swap (started late 2014) as part of a full restoration including a strip-down, TRD Pro Cement color change, and full interior redo. The specific LS variant, transmission, and performance figures were not detailed in the visible posts, but the builder fabricated custom engine-management and steering hardware.",
+  "complications": [
+    { "category": "electrical", "detail": "Fabricated a custom ECU shelf from 16-gauge stainless steel mounted to the driver's inner fender" },
+    { "category": "driveline", "detail": "Fabricated a high-pressure power steering coupler to mate the GM power steering pump to the Toyota steering gearbox" }
+  ],
+  "confidence": "medium"
+}

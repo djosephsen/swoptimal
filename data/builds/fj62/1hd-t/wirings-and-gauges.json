@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fj62-with-1hdt-wirings-and-gauges.1344821/",
+  "title": "FJ62 with 1HDT wirings and gauges",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": null,
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Owner of a 1986 FJ62 inherited a partially completed 1HD-T diesel swap and was finishing the wiring/instrumentation, since the diesel's VR (variable reluctance) tach signal is incompatible with the stock gas tachometer. Other members pointed to a Shift Kits Australia signal converter and a Dakota Digital Hall-effect sensor as working solutions used on similar 1HZ/1HD-T swaps.",
+  "complications": [
+    { "category": "electrical", "detail": "1HD-T's VR sine-wave tach signal incompatible with stock gas tachometer, requiring a signal converter" },
+    { "category": "electrical", "detail": "Brake fluid and clutch reservoir warning sensors left unconnected after the swap" }
+  ],
+  "confidence": "medium"
+}

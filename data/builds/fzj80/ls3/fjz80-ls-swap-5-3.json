@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fjz80-ls-swap.1008715/",
+  "title": "FJZ80 LS swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "4L60 automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "1997 FZJ80 swap using a stock 5.3L Vortec LS pulled from a wrecked 2001 Chevy truck, paired to a 4L60 automatic. Builder wired the whole swap himself and had it professionally tuned for about $500 (upstream O2 sensors only), passing emissions inspection with no check engine light. Reported only a qualitative 'night and day' improvement over the original engine, no dyno numbers.",
+  "complications": [
+    { "category": "electrical", "detail": "Builder described doing all the wiring himself as 'the hardest part' of the swap" },
+    { "category": "fitment", "detail": "Stock-appearing shifter retrofitted with custom internal linkage modifications for proper operation" }
+  ],
+  "confidence": "high"
+}

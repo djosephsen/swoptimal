@@ -1,0 +1,17 @@
+{
+  "id": "bmw-m57",
+  "name": "BMW M57D30 (530d)",
+  "family": "bmw",
+  "fuel": "diesel",
+  "config": "I6 turbo",
+  "displacement_l": 3.0,
+  "stock_hp": 193,
+  "stock_tq_nm": 410,
+  "redline_rpm": 4800,
+  "weight_kg": 210,
+  "dimensions": { "length_mm": 750, "width_mm": 650, "height_mm": 640 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "bmw-m5x",
+  "notes": "A verified real-world swap into an LJ78 used a 2003 E39 530d donor (see cataloged build). Distinct from the gas M52B28 already seeded - shares BMW's period bellhousing family but is a turbodiesel, not gas."
+}

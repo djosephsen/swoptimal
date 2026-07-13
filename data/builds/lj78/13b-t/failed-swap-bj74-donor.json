@@ -1,0 +1,20 @@
+{
+  "url": "https://forum.ih8mud.com/threads/lj78-13bt-failed-swap-need-advice.1192864/",
+  "title": "lj78 13bt Failed swap, need advice",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "A440F automatic (from BJ74 donor)",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "A 1990 LJ78 owner paid a shop (Land Cruisers Direct) over $17,000 across 16+ months to swap a BJ74's 13B-T and A440F automatic in place of the original 2L-TE. The result was a chronic rough idle (800-1000 rpm), warped harmonic-balancer/drive pulleys, a SPAL cooling fan that kept blowing fuses, and a failing mechanical voltage regulator; after about 4,000 miles the engine lost compression in the forward cylinder. The owner describes the installation quality as poor, with loose/taped-off original wiring bundles and vacuum lines resting on hot surfaces.",
+  "complications": [
+    { "category": "cooling", "detail": "SPAL electric fan repeatedly blew fuses/shorted relays; cracked heat-sender housing" },
+    { "category": "electrical", "detail": "Mechanical voltage regulator failed to charge reliably; loose, taped-off original LJ78 harness sections and vacuum lines resting on hot surfaces" },
+    { "category": "driveline", "detail": "Warped harmonic balancer and main drive pulley" },
+    { "category": "other", "detail": "Persistent rough idle never resolved; engine lost compression in forward cylinder after ~4,000 miles despite claimed compression testing by the shop" }
+  ],
+  "confidence": "high"
+}

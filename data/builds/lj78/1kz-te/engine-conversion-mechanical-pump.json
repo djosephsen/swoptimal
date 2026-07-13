@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/lj78-engine-conversion.735737/",
+  "title": "LJ78 engine conversion",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": "recommended for EGT management alongside a mechanical injection pump conversion (no specific product confirmed)",
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "After the original 2L-TE failed in this automatic LJ78, the owner proceeded with a 1KZ-TE swap using a mechanically-converted injector pump rather than the stock electronic pump. Forum members recommended a good exhaust and intercooler to control EGTs, with some debate over 1KZ head-gasket reliability (one vendor reported past head issues, others defended the engine as reliable with proper maintenance). The thread ends with the owner asking about control units for running the automatic transmission with the swapped engine, indicating the install proceeded but with less documented outcome detail than other threads.",
+  "complications": [
+    { "category": "cooling", "detail": "Multiple posters recommended intercooler and improved exhaust to manage EGTs on the 1KZ conversion" },
+    { "category": "electrical", "detail": "Owner still seeking a control-unit solution for the automatic transmission after the mechanical-pump 1KZ-TE swap" },
+    { "category": "other", "detail": "Disputed reliability track record cited: one vendor reported head-gasket issues on prior 1KZ conversions" }
+  ],
+  "confidence": "medium"
+}

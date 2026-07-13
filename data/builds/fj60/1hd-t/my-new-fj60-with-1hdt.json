@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/my-new-fj60-with-1hdt.569993/",
+  "title": "My new FJ60 with 1HDT",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "80-series automatic (replaced original 2F manual)",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "A 1982 FJ60 had its original 2F gas engine and manual transmission replaced with a 1HD-T diesel and automatic transmission sourced from an 80-series, originally installed new in 1990 and still running as of the 2012 thread. The owner reported death wobble at highway speed and was troubleshooting stock FJ60 tach incompatibility with the diesel engine.",
+  "complications": [
+    { "category": "driveline", "detail": "Death wobble at ~90 kph, initially suspected wheel balance" },
+    { "category": "cooling", "detail": "Large aftermarket transmission cooler left no room for a front-mount intercooler" },
+    { "category": "electrical", "detail": "Stock 4000-rpm FJ60 gas tachometer incompatible with diesel tach signal" }
+  ],
+  "confidence": "high"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://forum.ih8mud.com/threads/toyota-96-hdj80-cummins-6bt-conversion.1124993/",
+  "title": "Toyota '96 HDJ80 - Cummins 6BT conversion",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H151F manual (retained, converted from donor's automatic Allison flywheel/bellhousing)",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": "upgraded",
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "A 1996 HDJ80 owner is swapping in a Cummins 6BT 5.9L sourced from a 1998 Thomas school bus, targeting roughly 300 hp with better reliability than the factory 1HD-T. The bus engine came with an automatic Allison bellhousing/flywheel, so it had to be converted to mate with the Toyota manual gearbox.",
+  "complications": [
+    { "category": "fitment", "detail": "Cummins block's factory engine mounts collide with the 80-series firewall, requiring cutting/adapting to a flanged mounting style" },
+    { "category": "driveline", "detail": "Bus-sourced 6BT had an automatic (Allison) flywheel/bellhousing that had to be swapped for manual components" },
+    { "category": "cooling", "detail": "Installed a 450x300x76mm aftermarket intercooler and dual 12-inch electric fans" },
+    { "category": "electrical", "detail": "Integrating factory A/C onto the 6BT was reported as the most difficult retrofit aspect" }
+  ],
+  "confidence": "high"
+}

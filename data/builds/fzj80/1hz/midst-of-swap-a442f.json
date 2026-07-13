@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/bought-a-fjz80-in-the-midst-of-a-1hz-swap-some-questions.599321/",
+  "title": "Bought a FJZ80 in the midst of a 1HZ swap, some questions",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "A442F automatic (rebuilt, Australian-sourced Wholesale Automatics valve body and torque converter)",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "New owner acquired an FZJ80 mid-conversion from a previous owner's partially completed 1HZ swap with an Australian-sourced A442F automatic transmission build, and is asking the forum to help finish the job. Outstanding items included wiring for tach/speedo signal sourcing, glow plug relay/timer setup, missing A/C components, and an unclear kickdown cable connection between the injection pump and A442 transmission; the original 1FZ-FE radiator was deemed adequate for cooling.",
+  "complications": [
+    { "category": "electrical", "detail": "Tach signal source unclear (injection pump vs fuel pump); speedometer needed conversion using original T-case electronic sensor" },
+    { "category": "fitment", "detail": "Project inherited partially complete from previous owner, with air intake, driveshafts, coolant plumbing, and A/C still needing installation" },
+    { "category": "driveline", "detail": "Kickdown cable from the A442F automatic lacked a clear connection point on the diesel injection pump" }
+  ],
+  "confidence": "medium"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/project-rehab-chopped-ls-swapped-80-series.1286025/",
+  "title": "Project Rehab (Chopped LS Swapped 80 Series)",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "4L80E automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Chopped 1994 80-series Land Cruiser (ute conversion) rebuilt around a built LQ4 6.0L Gen III LS V8 (BTR Stage 2 cam, Wiseco pistons, LS7 lifters, head studs, upgraded oiling) paired to a 4L80E automatic and a Mark's 4WD adapter/transfer-case kit. No dyno figures were published in the opening posts, which focus mainly on parts acquisition and build planning.",
+  "complications": [
+    { "category": "cooling", "detail": "Fitted an Alloy Works 3-row radiator with electric fans plus separate transmission and power steering coolers" },
+    { "category": "electrical", "detail": "Used a PSI wiring harness with a Cruiser Matt drive-by-wire delete plug" },
+    { "category": "fitment", "detail": "Required Selkirk off-road motor mounts, a custom crossmember, and a Mark's 4WD oil pan/sump pickup kit" }
+  ],
+  "confidence": "medium"
+}

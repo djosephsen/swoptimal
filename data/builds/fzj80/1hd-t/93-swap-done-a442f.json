@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/another-93-fzj80-1hd-t-swap-done.353716/",
+  "title": "another 93 FZJ80 1HD-T swap done...",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "A442F automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "A 1993 FZJ80 was converted to a 1HD-T diesel paired with the diesel's A442F automatic transmission, requiring extensive rewiring done in collaboration with another forum member reading factory wiring diagrams. The builder described the diesel as pulling as hard as the factory 1FZ-FE gas engine, while acknowledging some loss of seat-of-the-pants acceleration feel; other members warned about high EGTs on long grades.",
+  "complications": [
+    { "category": "electrical", "detail": "Extensive rewiring required, done via manual diagram-reading, plotting, and soldering" },
+    { "category": "other", "detail": "Forum members warned EGTs can run very hot on long grade climbs, recommending an EGT gauge" }
+  ],
+  "confidence": "high"
+}

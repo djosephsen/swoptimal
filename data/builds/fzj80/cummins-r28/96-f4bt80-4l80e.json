@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1996-cummins-swapped-f-z-j80.1062295/",
+  "title": "1996 Cummins Swapped F(Z)J80",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "GM 4L80E automatic with TCI transmission controller",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": 16 },
+  "ai_summary": "For-sale 1996 FJ80 (owner-labeled 'F4BT80') running a Cummins 3.9L 4BT with P7100 mechanical injection mated to a GM 4L80E automatic with an aftermarket TCI controller. Reported fuel economy of 18-21 mpg highway, 14-16 mpg city, and 13-14 mpg off-road, with extensive overlanding gear and documented maintenance.",
+  "complications": [
+    { "category": "driveline", "detail": "4L80E exhibits fickle lockup/overdrive behavior, requiring a manual torque-converter lockup switch or TCU reprogramming" },
+    { "category": "electrical", "detail": "Factory tachometer is disabled post-swap; a conversion module exists but was not installed" },
+    { "category": "other", "detail": "Minor oil leaks noted, addressed via upper/lower gasket replacement" }
+  ],
+  "confidence": "high"
+}

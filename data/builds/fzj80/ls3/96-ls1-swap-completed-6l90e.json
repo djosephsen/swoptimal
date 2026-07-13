@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1996-fzj80-ls1-swap-completed.768535/",
+  "title": "1996 fzj80 LS1 swap completed",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "6L90E automatic",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Despite the thread title referencing LS1, the builder's own signature clarifies the completed swap in this 1996 FZJ80 (LX450 variant) actually used a 6.2L LS-family engine paired to a 6L90E automatic, with the stock Toyota transfer case and 4WD wiring left functionally unchanged. Dirty Dingo LS street rod motor mounts were used. No dyno numbers were posted, but a test rider described the truck as driving 'smooth as glass' with strong power.",
+  "complications": [
+    { "category": "electrical", "detail": "Builder said he'd prefer drive-by-cable over drive-by-wire on a future build to avoid a module failure stranding the truck on trail" },
+    { "category": "fitment", "detail": "Used Dirty Dingo LS street rod motor mounts for engine placement" }
+  ],
+  "confidence": "medium"
+}

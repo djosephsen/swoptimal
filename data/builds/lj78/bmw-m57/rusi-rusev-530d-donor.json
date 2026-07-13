@@ -1,0 +1,20 @@
+{
+  "url": "https://forum.ih8mud.com/threads/lj78-2lte-to-________-engine-swap.843398/",
+  "title": "LJ78 2LTE to ?________? Engine Swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "Stock Toyota LJ78 gearbox retained, mated via a custom bellhousing fabricated from a BMW bell housing",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": "Range Rover P38 intercooler",
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Forum user Rusi Rusev swapped a BMW M57 turbodiesel inline-6 (pulled complete with wiring/ECU/pedal/keys from a 2003 BMW 530D) into his Toyota LJ78 Prado, replacing the original 2L-TE. The stock Toyota gearbox was retained using a custom bellhousing built from the BMW bell, with axle ratios changed to 41/10 rear (from a 4Runner 1KZ) and 14/10 front (from an 80-series) to suit the new powerband. Owner reported 0-100km/h in about 11 seconds, 160km/h top speed, and fuel consumption of 9-11 L/100km.",
+  "complications": [
+    { "category": "fitment", "detail": "Custom bellhousing fabricated from a BMW bell housing to mate the M57 to the stock LJ78 Toyota gearbox; radiator repositioned about 20mm forward to clear the engine" },
+    { "category": "cooling", "detail": "Turbo diesel charge-air cooling handled with an intercooler sourced from a Range Rover P38" },
+    { "category": "driveline", "detail": "Rear axle ratio changed to 41/10 (from a 4Runner 1KZ) and front to 14/10 (from an 80-series Land Cruiser) to match the M57's power delivery" },
+    { "category": "electrical", "detail": "Wiring kept as an intact BMW harness/ECU package - owner advised pulling the engine complete with all cables, computer, gas pedal, and keys from the donor to simplify integration" }
+  ],
+  "confidence": "high"
+}

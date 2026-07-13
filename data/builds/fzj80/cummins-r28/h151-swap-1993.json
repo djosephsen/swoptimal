@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/cummins-r2-8-h151-swap-into-1993-fzj80.1113100/",
+  "title": "Cummins R2.8 H151 Swap into 1993 FZJ80",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H151 5-speed manual",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": 161, "tq_nm": 420, "mpg": null },
+  "ai_summary": "Builder installed a new Cummins R2.8 crate engine into a 1993 FZJ80 mated to the factory H151 5-speed with a custom 3-inch adapter ring, explicitly avoiding any frame cutting/welding. The factory transfer case was retained. R2.8 is rated 161 hp / 310 lb-ft stock.",
+  "complications": [
+    { "category": "fitment", "detail": "R2.8 cannot sit as far back as the original 1FZ due to firewall indentation/EGR assembly, requiring a thick custom adapter ring and reworked oil pan sump placement" },
+    { "category": "fitment", "detail": "H151 installation required cutting, fabricating, and welding the transmission tunnel floor" },
+    { "category": "other", "detail": "Gasoline fuel lines/tank pickup were incompatible; diesel lines and pickup assembly had to be sourced from a Japan-market 4x4 and the filler pipe required a body lift to remove" }
+  ],
+  "confidence": "high"
+}

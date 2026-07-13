@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fs-1988-fj62-1hz-h55f-diesel-conversion-daily-driver.243424/",
+  "title": "FS: 1988 FJ62 1HZ/H55F diesel conversion, daily driver",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H55F 5-speed manual with transfer case",
+  "gearing": 3.70,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": 24 },
+  "ai_summary": "A completed, professionally-installed (Steve's Off-Road, TN) 1HZ/H55F conversion into a 1988 FJ62, sold with 13,500 miles on the conversion and full receipts. Electrical system was converted from 24V to 12V using OEM Toyota parts, driveshafts were reworked, and the front axle was rebuilt and re-geared to 3.70. Owner reported worst-case 20 mpg and best-case 30 mpg, averaging about 24 mpg, with no drivability issues noted.",
+  "complications": [
+    { "category": "electrical", "detail": "Converted 24V 1HZ electrical components (alternator, starter, fuel cut solenoid) to 12V using OEM Toyota parts" },
+    { "category": "driveline", "detail": "Driveshafts professionally reworked; front axle rebuilt and re-geared to 3.70" },
+    { "category": "other", "detail": "Factory A/C intact but new hoses needed for the factory mount to function" }
+  ],
+  "confidence": "high"
+}

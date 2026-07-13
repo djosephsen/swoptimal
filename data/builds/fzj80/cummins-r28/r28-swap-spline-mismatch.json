@@ -1,0 +1,17 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fzj80-cummins-r2-8-swap.1145964/",
+  "title": "FZJ80 - Cummins r2.8 swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "R151F Toyota 5-speed (foreign-market variant with modified tail housing)",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Owner of a triple-locked 1995 FZJ80 is planning an R2.8 swap using an Axis/Advanced Adapters bellhousing to an overseas-spec R151F 5-speed, retaining the factory HF2A(V) full-time transfer case. The build stalled on a driveline spline-count mismatch between the transmission output and transfer case input.",
+  "complications": [
+    { "category": "driveline", "detail": "Foreign-market R151F output shaft uses 21-23 splines while the HF2A(V) transfer case input requires 19 splines, forcing a choice between modifying the transmission output or the transfer case input, or sourcing an HZJ79/HZJ105 transmission-and-transfer-case combo" }
+  ],
+  "confidence": "medium"
+}

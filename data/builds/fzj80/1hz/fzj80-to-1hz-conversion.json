@@ -1,0 +1,18 @@
+{
+  "url": "https://forum.ih8mud.com/threads/fzj80-to-1hz-conversion.819116/",
+  "title": "Fzj80 to 1hz conversion",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "H151F gearbox (carried over from 1FZ) fitted with 1HDT clutch and flywheel for compatibility",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Early-stage build thread for converting a 1993 FZJ80 from its factory 1FZ gas engine to a 1HZ diesel. Forum members advised that because the 1FZ's H151F gearbox uses coarser splines than the stock 1HZ clutch/flywheel, a 1HDT clutch and flywheel assembly (larger capacity) is needed for the swap. No performance figures or completion updates were present in the thread.",
+  "complications": [
+    { "category": "driveline", "detail": "H151F gearbox spline/clutch mismatch with standard 1HZ clutch parts; requires 1HDT clutch and flywheel" },
+    { "category": "fitment", "detail": "Bellhousing compatibility confirmed via HDJ80 sourcing; engine mounts reported as identical between 1FZ and 1HZ" }
+  ],
+  "confidence": "medium"
+}

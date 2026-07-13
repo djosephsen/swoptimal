@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1993-fzj80-cummins-5-9-12v-swap.991294/",
+  "title": "1993 FZJ80 Cummins 5.9 12v Swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "Stock 80-series gearbox with commercial adapter kit and 1989-05-spec flexplate/adapter plate",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": null, "tq_nm": null, "mpg": null },
+  "ai_summary": "Owner of a Japanese-market 1993 FZJ80 is installing a Cummins 5.9L 12-valve pulled from a 1998 Dodge 2500 (190k miles), using a commercial adapter kit from a vendor called Dustin's. As of the thread's last update the build was mid-progress with engine prep underway; no post-swap performance data was reported.",
+  "complications": [
+    { "category": "fitment", "detail": "Steering column clearance required fabricating a drop-down brace, with sections cut and re-welded" },
+    { "category": "driveline", "detail": "Fuel pickup tube stability was a concern; forum members recommended hose clamps over the stock pinch clamps, and custom alignment tooling was needed to mate the transmission" },
+    { "category": "fitment", "detail": "Firewall/tunnel clearance was addressed via consideration of a 1-inch body lift" }
+  ],
+  "confidence": "medium"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://forum.ih8mud.com/threads/1994-fzj80-5-3l-and-4l60e-swap.541352/",
+  "title": "1994 FZJ80 5.3l and 4L60e swap",
+  "source_site": "ih8mud",
+  "date_cataloged": "2026-07-13",
+  "source": "harvested",
+  "transmission": "2WD 4L60E with Mark's adapter and spud shaft",
+  "gearing": null,
+  "tire_size": null,
+  "intercooler": null,
+  "observed": { "hp": 310, "tq_nm": 454, "mpg": null },
+  "ai_summary": "1994 FZJ80 swap using a low-mileage 2006 Vortec L33 5.3L all-aluminum LS-derived V8 (factory rated 310hp/335 lb-ft) paired to a 2WD 4L60E automatic via a Mark's adapter and spud shaft, retaining the stock full-time transfer case. After PCM tuning the builder estimated output closer to 350hp/350 lb-ft. An F-body oil pan and LS3 exhaust manifolds were fitted along with a custom harness and fuse block.",
+  "complications": [
+    { "category": "cooling", "detail": "Aluminum LS block runs hot; required a custom-mounted dual electric fan setup (sourced from a mid-1990s Lincoln Continental) sized to fully cover the stock radiator" },
+    { "category": "electrical", "detail": "Custom wiring harness and fuse block fabricated; MAF sensor intake tube damage discovered during diagnostics" },
+    { "category": "other", "detail": "Original Toyota A/C compressor is incompatible with the GM engine mounting; required custom hose fabrication to mate a Denso GM compressor to the existing evaporator/condenser" }
+  ],
+  "confidence": "high"
+}
