@@ -1,0 +1,10 @@
+{
+  "id": "h150f",
+  "name": "Toyota H150F",
+  "type": "manual",
+  "gears": 5,
+  "torque_rating_nm": 450,
+  "bellhousing_patterns": ["toyota-diesel-i6"],
+  "factory_engines": ["1hd-t"],
+  "notes": ""
+}

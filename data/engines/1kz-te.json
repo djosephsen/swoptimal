@@ -1,0 +1,17 @@
+{
+  "id": "1kz-te",
+  "name": "Toyota 1KZ-TE",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 3.0,
+  "stock_hp": 125,
+  "stock_tq_nm": 294,
+  "redline_rpm": 4500,
+  "weight_kg": 190,
+  "dimensions": { "length_mm": 660, "width_mm": 600, "height_mm": 620 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-diesel-i4",
+  "notes": "Factory engine in successor Prado 90-series (KZJ) chassis sharing this body/bay family — treated as a bolt-in for lj78 (see fitment overrides), not stock here."
+}

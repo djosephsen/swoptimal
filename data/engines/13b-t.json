@@ -1,0 +1,17 @@
+{
+  "id": "13b-t",
+  "name": "Toyota 13B-T",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 3.4,
+  "stock_hp": 105,
+  "stock_tq_nm": 285,
+  "redline_rpm": 4200,
+  "weight_kg": 260,
+  "dimensions": { "length_mm": 780, "width_mm": 650, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-diesel-i4",
+  "notes": "Originally a Dyna/Coaster truck engine, not a factory Land Cruiser fitment — a well-documented swap into 4-cylinder-bay 70-series chassis."
+}

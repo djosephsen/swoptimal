@@ -1,0 +1,6 @@
+{
+  "fit": "fits-with-mods",
+  "mods_required": ["custom mounts", "wiring/ECU integration", "driveshaft length adjustment"],
+  "reason": "Same inline-4 turbo-diesel size class as the stock 2L-TE, but from a different vehicle family — physically compatible with the bay but requires custom mounts and wiring rather than a direct bolt-in.",
+  "sources": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "r150f",
+  "name": "Toyota R150F",
+  "type": "manual",
+  "gears": 5,
+  "torque_rating_nm": 300,
+  "bellhousing_patterns": ["toyota-diesel-i4"],
+  "factory_engines": ["2l-te"],
+  "notes": ""
+}

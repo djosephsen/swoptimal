@@ -1,0 +1,17 @@
+{
+  "id": "ls3",
+  "name": "GM LS3",
+  "family": "gm-ls",
+  "fuel": "gas",
+  "config": "V8",
+  "displacement_l": 6.2,
+  "stock_hp": 430,
+  "stock_tq_nm": 576,
+  "redline_rpm": 6600,
+  "weight_kg": 195,
+  "dimensions": { "length_mm": 700, "width_mm": 750, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "gm-ls",
+  "notes": "Popular V8 swap-in across many off-road platforms; wide but relatively short/light for its output."
+}

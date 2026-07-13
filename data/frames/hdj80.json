@@ -1,0 +1,15 @@
+{
+  "id": "hdj80",
+  "name": "Land Cruiser HDJ80",
+  "series": "80-series",
+  "years": "1990-1997",
+  "body_style": "wagon",
+  "stock_engine": "1hd-t",
+  "stock_transmission": "h150f",
+  "curb_weight_kg": 2250,
+  "engine_bay": { "length_mm": 980, "width_mm": 760, "height_mm": 720 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "275/70R16",
+  "dimension_source": "estimated",
+  "notes": ""
+}

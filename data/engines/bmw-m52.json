@@ -1,0 +1,17 @@
+{
+  "id": "bmw-m52",
+  "name": "BMW M52B28",
+  "family": "bmw",
+  "fuel": "gas",
+  "config": "I6",
+  "displacement_l": 2.8,
+  "stock_hp": 193,
+  "stock_tq_nm": 280,
+  "redline_rpm": 6500,
+  "weight_kg": 165,
+  "dimensions": { "length_mm": 750, "width_mm": 650, "height_mm": 640 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "bmw-m5x",
+  "notes": "A common swap into Central American LJ70-family chassis, often paired with the factory BMW 5-speed."
+}

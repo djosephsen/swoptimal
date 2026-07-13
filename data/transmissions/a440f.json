@@ -1,0 +1,10 @@
+{
+  "id": "a440f",
+  "name": "Toyota A440F",
+  "type": "automatic",
+  "gears": 4,
+  "torque_rating_nm": 400,
+  "bellhousing_patterns": ["toyota-gas-i6"],
+  "factory_engines": ["2f"],
+  "notes": ""
+}

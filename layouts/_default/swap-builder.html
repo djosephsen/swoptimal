@@ -1,0 +1,59 @@
+{{ define "main" }}
+{{ $css := resources.Get "css/swoptimal.css" | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+  </header>
+  <div class="post-content">
+    {{ .Content }}
+
+    <form id="swoptimal-form" class="swoptimal-form">
+      <label>Frame
+        <select id="field-frame" required></select>
+      </label>
+      <label>Engine
+        <select id="field-engine" required></select>
+      </label>
+      <label>Transmission
+        <select id="field-transmission"></select>
+      </label>
+      <label>Gearing (diff ratio)
+        <input id="field-gearing" type="number" step="0.01" placeholder="e.g. 4.88">
+      </label>
+      <label>Tire size
+        <input id="field-tire-size" type="text" placeholder="e.g. 285/75R16">
+      </label>
+      <label>Intercooler
+        <select id="field-intercooler">
+          <option value="">Unknown / N/A</option>
+          <option value="stock">Stock</option>
+          <option value="upgraded">Upgraded</option>
+          <option value="added">Added (aftermarket)</option>
+          <option value="none">None</option>
+        </select>
+      </label>
+      <label>Tow weight (kg)
+        <input id="field-tow-weight" type="number" step="1" placeholder="0">
+      </label>
+      <div class="swoptimal-form-actions">
+        <button type="submit">Build it</button>
+      </div>
+    </form>
+
+    <div id="swoptimal-radar" class="swoptimal-radar"></div>
+    <div id="swoptimal-summary" class="swoptimal-summary"></div>
+
+    <p>
+      <button id="swoptimal-submit-data" type="button">Submit real-world data for this combo</button>
+    </p>
+  </div>
+</article>
+
+{{ $js := resources.Get "js/app.js" | js.Build (dict "targetPath" "js/swap-builder-app.js") | resources.Minify | resources.Fingerprint }}
+<script>
+  window.SWOPTIMAL_CONFIG = { apiBase: "{{ "api/" | relURL }}" };
+</script>
+<script type="module" src="{{ $js.RelPermalink }}" defer></script>
+{{ end }}

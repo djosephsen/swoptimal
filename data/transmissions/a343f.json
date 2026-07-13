@@ -1,0 +1,10 @@
+{
+  "id": "a343f",
+  "name": "Toyota A343F",
+  "type": "automatic",
+  "gears": 4,
+  "torque_rating_nm": 400,
+  "bellhousing_patterns": ["toyota-gas-i6"],
+  "factory_engines": ["1fz-fe"],
+  "notes": ""
+}

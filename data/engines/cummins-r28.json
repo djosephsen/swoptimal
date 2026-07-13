@@ -1,0 +1,17 @@
+{
+  "id": "cummins-r28",
+  "name": "Cummins R2.8",
+  "family": "cummins",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 2.8,
+  "stock_hp": 161,
+  "stock_tq_nm": 365,
+  "redline_rpm": 3800,
+  "weight_kg": 175,
+  "dimensions": { "length_mm": 750, "width_mm": 620, "height_mm": 700 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "cummins-r28-native",
+  "notes": "Crate diesel marketed specifically for 4x4 repower/swap use; torque is factory-limited on the stock ECU tune to protect period-correct drivelines."
+}

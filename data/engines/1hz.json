@@ -1,0 +1,17 @@
+{
+  "id": "1hz",
+  "name": "Toyota 1HZ",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6",
+  "displacement_l": 4.2,
+  "stock_hp": 131,
+  "stock_tq_nm": 285,
+  "redline_rpm": 4200,
+  "weight_kg": 260,
+  "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": ["hzj78", "hzj79"],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "notes": ""
+}

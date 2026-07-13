@@ -1,0 +1,32 @@
+baseURL = "https://djosephsen.github.io/swoptimal/"
+locale = "en-us"
+title = "Swoptimal"
+theme = "m10c"
+
+[params]
+author = "Dave Josephsen"
+description = "An engine-swap database and estimator for off-road truck chassis"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "swap-builder"
+name = "Swap Builder"
+url = "/swap-builder/"
+weight = 2
+
+[[menu.main]]
+identifier = "build-lookup"
+name = "Build Lookup"
+url = "/build-lookup/"
+weight = 3
+
+[outputFormats.API]
+mediaType = "application/json"
+baseName = "index"
+isPlainText = true
+notAlternative = true

@@ -1,0 +1,17 @@
+{
+  "id": "1hd-t",
+  "name": "Toyota 1HD-T",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6 turbo",
+  "displacement_l": 4.2,
+  "stock_hp": 164,
+  "stock_tq_nm": 380,
+  "redline_rpm": 4200,
+  "weight_kg": 280,
+  "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 700 },
+  "dimension_source": "estimated",
+  "factory_frames": ["hdj80"],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "notes": "Inline-6 — will not fit 4-cylinder-only bays like the lj78's without major surgery (see fitment overrides)."
+}

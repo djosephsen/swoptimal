@@ -1,0 +1,15 @@
+{
+  "id": "lj78",
+  "name": "Land Cruiser Prado LJ78",
+  "series": "70-series (Prado)",
+  "years": "1996-2002",
+  "body_style": "wagon",
+  "stock_engine": "2l-te",
+  "stock_transmission": "r150f",
+  "curb_weight_kg": 1950,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "225/95R16",
+  "dimension_source": "estimated",
+  "notes": "4-cylinder-only chassis by design; the stock bay is noticeably tighter than the 6-cylinder 70-series variants (hzj78/hzj79)."
+}

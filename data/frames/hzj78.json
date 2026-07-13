@@ -1,0 +1,15 @@
+{
+  "id": "hzj78",
+  "name": "Land Cruiser HZJ78 Troop Carrier",
+  "series": "70-series",
+  "years": "1990-2007",
+  "body_style": "troop carrier",
+  "stock_engine": "1hz",
+  "stock_transmission": "h55f",
+  "curb_weight_kg": 2000,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.1,
+  "stock_tire_size": "265/70R16",
+  "dimension_source": "estimated",
+  "notes": ""
+}

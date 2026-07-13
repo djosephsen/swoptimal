@@ -1,0 +1,17 @@
+{
+  "id": "2l-te",
+  "name": "Toyota 2L-TE",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 2.4,
+  "stock_hp": 95,
+  "stock_tq_nm": 200,
+  "redline_rpm": 4500,
+  "weight_kg": 180,
+  "dimensions": { "length_mm": 640, "width_mm": 590, "height_mm": 610 },
+  "dimension_source": "estimated",
+  "factory_frames": ["lj78"],
+  "bellhousing_pattern": "toyota-diesel-i4",
+  "notes": ""
+}

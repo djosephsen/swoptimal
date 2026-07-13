@@ -1,0 +1,10 @@
+{
+  "id": "nv4500",
+  "name": "New Venture Gear NV4500",
+  "type": "manual",
+  "gears": 5,
+  "torque_rating_nm": 700,
+  "bellhousing_patterns": ["gm-ls", "cummins-r28-native"],
+  "factory_engines": [],
+  "notes": "Heavy-duty aftermarket swap box, common behind LS and Cummins swaps via adapter kits."
+}

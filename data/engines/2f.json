@@ -1,0 +1,17 @@
+{
+  "id": "2f",
+  "name": "Toyota 2F",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "I6",
+  "displacement_l": 4.2,
+  "stock_hp": 135,
+  "stock_tq_nm": 280,
+  "redline_rpm": 4200,
+  "weight_kg": 230,
+  "dimensions": { "length_mm": 880, "width_mm": 680, "height_mm": 660 },
+  "dimension_source": "estimated",
+  "factory_frames": ["fj60", "fj62"],
+  "bellhousing_pattern": "toyota-gas-i6",
+  "notes": ""
+}

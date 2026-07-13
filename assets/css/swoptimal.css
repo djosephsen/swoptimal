@@ -1,0 +1,115 @@
+.swoptimal-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  max-width: 720px;
+  margin: 1.5rem 0;
+}
+
+.swoptimal-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  gap: 0.25rem;
+}
+
+.swoptimal-form select,
+.swoptimal-form input {
+  padding: 0.4rem;
+  font-size: 1rem;
+}
+
+.swoptimal-form-actions {
+  grid-column: 1 / -1;
+}
+
+.swoptimal-radar {
+  max-width: 480px;
+  margin: 1.5rem auto;
+}
+
+.swoptimal-radar svg {
+  width: 100%;
+  height: auto;
+}
+
+.swoptimal-summary {
+  max-width: 720px;
+  margin: 1.5rem 0;
+  line-height: 1.5;
+}
+
+.swoptimal-badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+
+.swoptimal-badge--observed {
+  background: #2e7d32;
+  color: #fff;
+}
+
+.swoptimal-badge--estimated {
+  background: #757575;
+  color: #fff;
+}
+
+.swoptimal-badge--fit-stock,
+.swoptimal-badge--fit-bolt-in {
+  background: #2e7d32;
+  color: #fff;
+}
+
+.swoptimal-badge--fit-fits-with-mods {
+  background: #ef6c00;
+  color: #fff;
+}
+
+.swoptimal-badge--fit-no-fit {
+  background: #c62828;
+  color: #fff;
+}
+
+.swoptimal-badge--fit-unknown {
+  background: #757575;
+  color: #fff;
+}
+
+.swoptimal-lookup-filters {
+  display: flex;
+  gap: 1rem;
+  max-width: 720px;
+  margin: 1.5rem 0;
+  flex-wrap: wrap;
+}
+
+.swoptimal-build-list {
+  list-style: none;
+  padding: 0;
+  max-width: 800px;
+}
+
+.swoptimal-build-list li {
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.swoptimal-build-list h3 {
+  margin-top: 0;
+}
+
+.swoptimal-complications {
+  margin-top: 0.5rem;
+}
+
+.swoptimal-complications li {
+  border: none;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fj60",
+  "name": "Land Cruiser FJ60",
+  "series": "60-series",
+  "years": "1980-1987",
+  "body_style": "wagon",
+  "stock_engine": "2f",
+  "stock_transmission": "a440f",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "225/75R15",
+  "dimension_source": "estimated",
+  "notes": ""
+}

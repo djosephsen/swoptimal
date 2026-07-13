@@ -1,0 +1,10 @@
+{
+  "id": "h55f",
+  "name": "Toyota H55F",
+  "type": "manual",
+  "gears": 5,
+  "torque_rating_nm": 350,
+  "bellhousing_patterns": ["toyota-diesel-i6"],
+  "factory_engines": ["1hz"],
+  "notes": ""
+}

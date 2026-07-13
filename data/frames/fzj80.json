@@ -1,0 +1,15 @@
+{
+  "id": "fzj80",
+  "name": "Land Cruiser FZJ80",
+  "series": "80-series",
+  "years": "1992-1997",
+  "body_style": "wagon",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "a343f",
+  "curb_weight_kg": 2200,
+  "engine_bay": { "length_mm": 980, "width_mm": 760, "height_mm": 700 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "275/70R16",
+  "dimension_source": "estimated",
+  "notes": ""
+}

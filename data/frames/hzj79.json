@@ -1,0 +1,15 @@
+{
+  "id": "hzj79",
+  "name": "Land Cruiser HZJ79 Pickup",
+  "series": "70-series",
+  "years": "1999-2007",
+  "body_style": "pickup",
+  "stock_engine": "1hz",
+  "stock_transmission": "h55f",
+  "curb_weight_kg": 1980,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.1,
+  "stock_tire_size": "265/70R16",
+  "dimension_source": "estimated",
+  "notes": ""
+}
