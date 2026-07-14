@@ -114,7 +114,6 @@ export function resolveStats(
       torqueToWeight: observed.observed.tq_nm
         ? torqueToWeight(observed.observed.tq_nm, frame.curb_weight_kg, towWeightKg)
         : null,
-      sourceBuild: observed,
     };
   }
 

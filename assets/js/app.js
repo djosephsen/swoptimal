@@ -1,4 +1,4 @@
-import { fetchAll, sortedEntries } from "./data.js";
+import { fetchAll, sortedEntries, getBuildsFor } from "./data.js";
 import { resolveFitment } from "./fit.js";
 import { resolveStats } from "./estimate.js";
 import { checkTransCompatibility } from "./compat.js";
@@ -34,7 +34,37 @@ function sourceBadge(source) {
   return span;
 }
 
-function renderSummary(container, { fit, stats, transNotes }) {
+function renderBuildBlock(container, build) {
+  const buildBlock = document.createElement("div");
+  const heading = document.createElement("p");
+  const link = document.createElement("a");
+  link.href = build.url;
+  link.target = "_blank";
+  link.rel = "noreferrer noopener";
+  link.textContent = build.title || build.url;
+  heading.append("Real build: ", link);
+  buildBlock.appendChild(heading);
+
+  if (build.ai_summary) {
+    const summary = document.createElement("p");
+    summary.textContent = build.ai_summary;
+    buildBlock.appendChild(summary);
+  }
+
+  if (build.complications && build.complications.length) {
+    const list = document.createElement("ul");
+    list.className = "swoptimal-complications";
+    build.complications.forEach((c) => {
+      const li = document.createElement("li");
+      li.textContent = `[${c.category}] ${c.detail}`;
+      list.appendChild(li);
+    });
+    buildBlock.appendChild(list);
+  }
+  container.appendChild(buildBlock);
+}
+
+function renderSummary(container, { fit, stats, transNotes, relatedBuilds }) {
   container.innerHTML = "";
 
   const fitLine = document.createElement("p");
@@ -70,35 +100,8 @@ function renderSummary(container, { fit, stats, transNotes }) {
     container.appendChild(line);
   });
 
-  if (stats.sourceBuild) {
-    const build = stats.sourceBuild;
-    const buildBlock = document.createElement("div");
-    const heading = document.createElement("p");
-    const link = document.createElement("a");
-    link.href = build.url;
-    link.target = "_blank";
-    link.rel = "noreferrer noopener";
-    link.textContent = build.title || build.url;
-    heading.append("Based on a real build: ", link);
-    buildBlock.appendChild(heading);
-
-    if (build.ai_summary) {
-      const summary = document.createElement("p");
-      summary.textContent = build.ai_summary;
-      buildBlock.appendChild(summary);
-    }
-
-    if (build.complications && build.complications.length) {
-      const list = document.createElement("ul");
-      list.className = "swoptimal-complications";
-      build.complications.forEach((c) => {
-        const li = document.createElement("li");
-        li.textContent = `[${c.category}] ${c.detail}`;
-        list.appendChild(li);
-      });
-      buildBlock.appendChild(list);
-    }
-    container.appendChild(buildBlock);
+  if (relatedBuilds && relatedBuilds.length) {
+    relatedBuilds.forEach((build) => renderBuildBlock(container, build));
   } else {
     const note = document.createElement("p");
     note.textContent =
@@ -166,9 +169,10 @@ async function main() {
     const transNotes = transId
       ? checkTransCompatibility(data.engines[engineId], data.transmissions[transId])
       : [];
+    const relatedBuilds = getBuildsFor(data.builds, frameId, engineId);
 
     renderRadar(radarContainer, METRICS, stats);
-    renderSummary(summaryContainer, { fit, stats, transNotes });
+    renderSummary(summaryContainer, { fit, stats, transNotes, relatedBuilds });
 
     lastFormValues = {
       frame: frameId,
