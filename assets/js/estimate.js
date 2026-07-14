@@ -1,12 +1,9 @@
-import { getBuildsFor } from "./data.js";
-
 const KG_PER_LB = 0.453592;
 const REFERENCE_CURB_KG = 2270; // ~5000lb, a mid-pack curb weight across seeded frames
 const BASE_MPG = { diesel: 18, gas: 13 };
 
 // Automatics (especially older non-lockup/partial-lockup torque-converter
-// boxes like these) carry real parasitic loss a manual doesn't - applied
-// only to estimated figures, never to observed/reported real-world data.
+// boxes like these) carry real parasitic loss a manual doesn't.
 const DRIVELINE_EFFICIENCY = { manual: 1, automatic: 0.92 };
 
 function drivelineEfficiency(transmissions, transId) {
@@ -73,8 +70,12 @@ function rpmFlag(rpm, engine) {
   };
 }
 
+// Always computed from stock spec sheets - deliberately not reconciled
+// against real build reports (which show up separately, as-is, in the
+// UI). Averaging or picking among conflicting real-world numbers would
+// just be fabricating a figure nobody actually measured.
 export function resolveStats(
-  { frames, engines, builds, transmissions },
+  { frames, engines, transmissions },
   frameId,
   engineId,
   transId,
@@ -86,37 +87,6 @@ export function resolveStats(
   const frame = frames[frameId];
   const engine = engines[engineId];
 
-  // Multiple real builds can exist for the same combo - prefer the most
-  // complete report (most non-null observed fields), tie-broken by
-  // confidence, rather than whichever happens to iterate first.
-  const CONFIDENCE_RANK = { high: 3, medium: 2, low: 1 };
-  const observedCandidates = getBuildsFor(builds, frameId, engineId).filter(
-    (b) => b.observed && (b.observed.hp || b.observed.tq_nm || b.observed.mpg)
-  );
-  observedCandidates.sort((a, b) => {
-    const fieldCount = (o) =>
-      ["hp", "tq_nm", "mpg"].filter((k) => o.observed[k] != null).length;
-    const scoreOf = (o) =>
-      fieldCount(o) * 10 + (CONFIDENCE_RANK[o.confidence] || 0);
-    return scoreOf(b) - scoreOf(a);
-  });
-  const observed = observedCandidates[0];
-
-  if (observed) {
-    return {
-      source: "observed",
-      hp: observed.observed.hp,
-      tq_nm: observed.observed.tq_nm,
-      mpg: observed.observed.mpg,
-      powerToWeight: observed.observed.hp
-        ? powerToWeight(observed.observed.hp, frame.curb_weight_kg, towWeightKg)
-        : null,
-      torqueToWeight: observed.observed.tq_nm
-        ? torqueToWeight(observed.observed.tq_nm, frame.curb_weight_kg, towWeightKg)
-        : null,
-    };
-  }
-
   const diffRatio = gearing || frame.stock_diff_ratio;
   const tireDiameterIn = parseTireDiameterIn(tireSize || frame.stock_tire_size);
   const rpm = rpmAtSpeed(60, diffRatio, tireDiameterIn);
@@ -125,7 +95,6 @@ export function resolveStats(
   const tqNm = engine.stock_tq_nm * efficiency;
 
   return {
-    source: "estimated",
     hp,
     tq_nm: tqNm,
     mpg: estimateMpg(engine, frame, diffRatio, towWeightKg) * efficiency,

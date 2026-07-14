@@ -66,16 +66,6 @@
   margin-left: 0.5rem;
 }
 
-.swoptimal-badge--observed {
-  background: #2e7d32;
-  color: #fff;
-}
-
-.swoptimal-badge--estimated {
-  background: #757575;
-  color: #fff;
-}
-
 .swoptimal-badge--fit-stock,
 .swoptimal-badge--fit-bolt-in {
   background: #2e7d32;

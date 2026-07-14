@@ -27,13 +27,6 @@ function fitBadge(fit) {
   return span;
 }
 
-function sourceBadge(source) {
-  const span = document.createElement("span");
-  span.className = `swoptimal-badge swoptimal-badge--${source}`;
-  span.textContent = source;
-  return span;
-}
-
 function renderBuildBlock(container, build) {
   const buildBlock = document.createElement("div");
   const heading = document.createElement("p");
@@ -49,6 +42,23 @@ function renderBuildBlock(container, build) {
     const summary = document.createElement("p");
     summary.textContent = build.ai_summary;
     buildBlock.appendChild(summary);
+  }
+
+  if (
+    build.observed &&
+    (build.observed.hp || build.observed.tq_nm || build.observed.mpg)
+  ) {
+    const reported = document.createElement("p");
+    reported.textContent =
+      "This build reported: " +
+      [
+        build.observed.hp ? `${build.observed.hp} hp` : null,
+        build.observed.tq_nm ? `${build.observed.tq_nm} Nm` : null,
+        build.observed.mpg ? `${build.observed.mpg} mpg` : null,
+      ]
+        .filter(Boolean)
+        .join(" / ");
+    buildBlock.appendChild(reported);
   }
 
   if (build.complications && build.complications.length) {
@@ -73,8 +83,7 @@ function renderSummary(container, { fit, stats, transNotes, relatedBuilds }) {
 
   const statsLine = document.createElement("p");
   statsLine.append(
-    "Estimated performance ",
-    sourceBadge(stats.source),
+    "Estimated performance (from stock spec sheets):",
     document.createElement("br"),
     `${Math.round(stats.hp || 0)} hp / ${Math.round(stats.tq_nm || 0)} Nm / ${
       stats.mpg ? stats.mpg.toFixed(1) : "?"
@@ -104,8 +113,7 @@ function renderSummary(container, { fit, stats, transNotes, relatedBuilds }) {
     relatedBuilds.forEach((build) => renderBuildBlock(container, build));
   } else {
     const note = document.createElement("p");
-    note.textContent =
-      "No real-world build reported for this combo yet — these numbers are a rough estimate from stock spec sheets.";
+    note.textContent = "No real-world build reported for this combo yet.";
     container.appendChild(note);
   }
 }
