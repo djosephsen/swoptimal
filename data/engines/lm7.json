@@ -1,0 +1,18 @@
+{
+  "id": "lm7",
+  "name": "GM LM7 (5.3L Vortec)",
+  "family": "gm-ls",
+  "fuel": "gas",
+  "config": "V8",
+  "displacement_l": 5.3,
+  "stock_hp": 285,
+  "stock_tq_nm": 441,
+  "redline_rpm": 5600,
+  "weight_kg": 200,
+  "dimensions": { "length_mm": 700, "width_mm": 750, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "gm-ls",
+  "control": "electronic",
+  "notes": "The base/common 5.3L Vortec (1999-2007 GM half-ton trucks/SUVs) - iron block, aluminum heads. This is the '5.3 swap' most builds mean unless a specific high-output variant (L33) is named. Drive-by-wire ECU."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "f",
+  "name": "Toyota F",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "I6",
+  "displacement_l": 3.9,
+  "stock_hp": 105,
+  "stock_tq_nm": 275,
+  "redline_rpm": 4000,
+  "weight_kg": 220,
+  "dimensions": { "length_mm": 860, "width_mm": 680, "height_mm": 660 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-gas-i6",
+  "control": "mechanical",
+  "notes": "The original Land Cruiser inline-6 (1949-1975), carbureted, no ECU. Output varied by market/year (95-125hp, 261-289Nm cited across sources) - 105hp/275Nm used as a representative middle figure. Superseded by the 2F in 1975; not set as any frame's primary stock_engine here since most FJ40/42/43/45/55/56 frames are already mapped to the later 2F for simplicity, but genuine early-production units ran this engine."
+}

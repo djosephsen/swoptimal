@@ -1,0 +1,18 @@
+{
+  "id": "l33",
+  "name": "GM L33 (5.3L Vortec HO)",
+  "family": "gm-ls",
+  "fuel": "gas",
+  "config": "V8",
+  "displacement_l": 5.3,
+  "stock_hp": 310,
+  "stock_tq_nm": 441,
+  "redline_rpm": 5800,
+  "weight_kg": 190,
+  "dimensions": { "length_mm": 700, "width_mm": 750, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "gm-ls",
+  "control": "electronic",
+  "notes": "Rare high-output aluminum-block 5.3L (2005-2007, only ~25% of eligible Silverado/Sierra trucks got it) - notably lighter than the common iron-block LM7 for similar output. Drive-by-wire ECU."
+}

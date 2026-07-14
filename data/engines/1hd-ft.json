@@ -1,0 +1,18 @@
+{
+  "id": "1hd-ft",
+  "name": "Toyota 1HD-FT (intercooled)",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6 turbo",
+  "displacement_l": 4.164,
+  "stock_hp": 202,
+  "stock_tq_nm": 430,
+  "redline_rpm": 4200,
+  "weight_kg": 285,
+  "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 700 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "control": "mechanical",
+  "notes": "The intercooled 1995-97 update to the HDJ80's turbo-diesel (a notable power step up from the earlier 1HD-T) - not set as hdj80/hdj81's primary stock_engine here since that's mapped to the more common 1990-94 1HD-T for simplicity, but later-production units of both frames used this engine. Naming is genuinely ambiguous in sources - some call this exact intercooled engine '1HD-FTE' instead, blurring the line with the electronically-controlled engine already seeded separately; marked mechanical here per Toyota's usual T/TE suffix convention, but treat that as a judgment call, not a confirmed fact."
+}

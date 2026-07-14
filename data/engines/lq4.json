@@ -1,0 +1,18 @@
+{
+  "id": "lq4",
+  "name": "GM LQ4 (6.0L Vortec)",
+  "family": "gm-ls",
+  "fuel": "gas",
+  "config": "V8",
+  "displacement_l": 6.0,
+  "stock_hp": 300,
+  "stock_tq_nm": 488,
+  "redline_rpm": 5600,
+  "weight_kg": 220,
+  "dimensions": { "length_mm": 700, "width_mm": 750, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "gm-ls",
+  "control": "electronic",
+  "notes": "Iron-block Gen III truck engine (1999-2007 GM 3/4-ton trucks/SUVs) - the single most common LS-family swap donor in our own cataloged builds, more so than a true aftermarket LS3 crate motor. Cheap, plentiful, heavy but very durable. Drive-by-wire ECU."
+}

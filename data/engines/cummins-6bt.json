@@ -1,0 +1,18 @@
+{
+  "id": "cummins-6bt",
+  "name": "Cummins 6BT (12-valve, 5.9L)",
+  "family": "cummins",
+  "fuel": "diesel",
+  "config": "I6 turbo",
+  "displacement_l": 5.9,
+  "stock_hp": 160,
+  "stock_tq_nm": 542,
+  "redline_rpm": 2500,
+  "weight_kg": 480,
+  "dimensions": { "length_mm": 950, "width_mm": 700, "height_mm": 750 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "cummins-b-series",
+  "control": "mechanical",
+  "notes": "The famous Dodge Ram 12-valve diesel (1989-1998), sourced from wrecked pickups for swaps. Output climbed across its run: 160hp/400lb-ft (1989-93) up to 215hp/440lb-ft (1996-98 manual). 160hp/400lb-ft (542Nm) used here as the baseline. Mechanical injection pump (P7100 on later units), no ECU."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cummins-4bt",
+  "name": "Cummins 4BT",
+  "family": "cummins",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 3.9,
+  "stock_hp": 105,
+  "stock_tq_nm": 359,
+  "redline_rpm": 2500,
+  "weight_kg": 350,
+  "dimensions": { "length_mm": 750, "width_mm": 620, "height_mm": 700 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "cummins-b-series",
+  "control": "mechanical",
+  "notes": "Classic industrial/agricultural Cummins B-series four, a long-popular swap engine independent of the newer R2.8 crate motor. Factory ratings varied widely by application - common baseline is 105hp/265lb-ft (359Nm), but aftercooled/intercooled versions reached up to 150hp/420lb-ft (569Nm). Mechanical P7100-family injection pump, no ECU - confirmed directly by a cataloged real build using this exact pump."
+}
