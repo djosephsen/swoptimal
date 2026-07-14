@@ -1,0 +1,18 @@
+{
+  "id": "5vze",
+  "name": "Toyota 5VZ-FE",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "V6",
+  "displacement_l": 3.4,
+  "stock_hp": 190,
+  "stock_tq_nm": 298,
+  "redline_rpm": 5400,
+  "weight_kg": 185,
+  "dimensions": { "length_mm": 640, "width_mm": 710, "height_mm": 650 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-gas-v6-classic",
+  "control": "electronic",
+  "notes": "DOHC V6 (1995-2004), factory engine in the Tacoma/4Runner/Tundra and the Land Cruiser Prado (a chassis generation this database doesn't cover). Known for a notably flat torque curve - most of peak torque available from ~2,200rpm. Modern-for-its-era EFI with its own ECU."
+}

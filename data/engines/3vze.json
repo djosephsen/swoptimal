@@ -1,0 +1,18 @@
+{
+  "id": "3vze",
+  "name": "Toyota 3VZE",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "V6",
+  "displacement_l": 3.0,
+  "stock_hp": 150,
+  "stock_tq_nm": 244,
+  "redline_rpm": 5000,
+  "weight_kg": 175,
+  "dimensions": { "length_mm": 630, "width_mm": 700, "height_mm": 640 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-gas-v6-classic",
+  "control": "electronic",
+  "notes": "SOHC V6 (1988-1995), factory engine in the Toyota pickup/4Runner - not a Land Cruiser engine, but a real (if less commonly cited) swap option. Fuel-injected with its own ECU, though a much simpler system than modern V6es. Superseded by the DOHC 3VZ-FE (Camry/ES300 application, similar output) and later by the 5VZ-FE."
+}

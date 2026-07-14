@@ -1,0 +1,18 @@
+{
+  "id": "1gr-fe",
+  "name": "Toyota 1GR-FE",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "V6",
+  "displacement_l": 4.0,
+  "stock_hp": 236,
+  "stock_tq_nm": 365,
+  "redline_rpm": 5600,
+  "weight_kg": 195,
+  "dimensions": { "length_mm": 650, "width_mm": 720, "height_mm": 650 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-gas-v6-modern",
+  "control": "electronic",
+  "notes": "Modern DOHC V6 (2003+) - factory engine in the 2007+ GRJ-badged 70-series Land Cruisers, 4Runner, Tacoma, FJ Cruiser, and Prado 120/150. Output ranged 236-285hp/365-390Nm across VVT-i vs Dual VVT-i variants and markets - 236hp/365Nm (the earlier VVT-i baseline) used here as representative. No factory frame association seeded here since the GRJ70-series chassis itself is out of scope (newer than this project's 80-series cutoff), but the engine is a real swap-in option into older frames. Modern drive-by-wire ECU - needs the donor harness/ECU like other electronically-controlled engines."
+}
