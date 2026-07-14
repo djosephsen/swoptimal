@@ -11,7 +11,8 @@
   "weight_kg": 280,
   "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 700 },
   "dimension_source": "estimated",
-  "factory_frames": ["hdj80"],
+  "factory_frames": ["hdj80", "hdj81"],
   "bellhousing_pattern": "toyota-diesel-i6",
-  "notes": "Inline-6 — will not fit 4-cylinder-only bays like the lj78's without major surgery (see fitment overrides)."
+  "control": "mechanical",
+  "notes": "Inline-6 — will not fit 4-cylinder-only bays like the lj78's without major surgery (see fitment overrides). Mechanical injection pump, no ECU (later 1HD-FTE moved to electronic control)."
 }

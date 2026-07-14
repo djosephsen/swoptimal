@@ -1,0 +1,15 @@
+{
+  "id": "hzj75",
+  "name": "Land Cruiser HZJ75",
+  "series": "70-series",
+  "years": "1990-1999",
+  "body_style": "2-door long-wheelbase pickup and troop carrier (\"Troopy\"), leaf-sprung front axle",
+  "stock_engine": "1hz",
+  "stock_transmission": "H55F 5-speed manual, single dry-plate clutch, dual-range 4WD",
+  "curb_weight_kg": 1981,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.111,
+  "stock_tire_size": "7.50R16",
+  "dimension_source": "estimated",
+  "notes": "Weight varies by year/body/source (1,981-2,071kg found). One forum source claims a larger 9.5in/4.3 diff vs. the 4.111 used here from a trip-prep spec sheet - genuinely conflicting, not resolved."
+}

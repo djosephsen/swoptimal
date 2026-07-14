@@ -1,0 +1,15 @@
+{
+  "id": "hj60",
+  "name": "Land Cruiser HJ60",
+  "series": "60-series",
+  "years": "1982-1987",
+  "body_style": "4/5-door wagon",
+  "stock_engine": "2h",
+  "stock_transmission": "H41F/H42F 4-speed manual (early), H55F 5-speed manual (1983-90); A440F automatic optional",
+  "curb_weight_kg": 2200,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 3.7,
+  "stock_tire_size": "7.50R16-6PR LT or 10R15-6PR LT",
+  "dimension_source": "estimated",
+  "notes": "Diesel counterpart to the gas FJ60/FJ62 on the same 60-series body. Weight/diff/tire sourced from a detailed European-market spec sheet."
+}

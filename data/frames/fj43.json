@@ -1,0 +1,15 @@
+{
+  "id": "fj43",
+  "name": "Land Cruiser FJ43",
+  "series": "40-series",
+  "years": "circa 1960s-1984",
+  "body_style": "2-door soft-top/hardtop, medium wheelbase (2,430mm)",
+  "stock_engine": "2f",
+  "stock_transmission": "presumed same as contemporary FJ40 (unconfirmed)",
+  "curb_weight_kg": 1560,
+  "engine_bay": { "length_mm": 860, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Documented as extremely rare, never officially imported to the US."
+}

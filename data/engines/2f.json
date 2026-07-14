@@ -11,7 +11,8 @@
   "weight_kg": 230,
   "dimensions": { "length_mm": 880, "width_mm": 680, "height_mm": 660 },
   "dimension_source": "estimated",
-  "factory_frames": ["fj60", "fj62"],
+  "factory_frames": ["fj60", "fj62", "fj40", "fj42", "fj43", "fj45", "fj55", "fj56"],
   "bellhousing_pattern": "toyota-gas-i6",
-  "notes": ""
+  "control": "mechanical",
+  "notes": "Carbureted, no ECU."
 }

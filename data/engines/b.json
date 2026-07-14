@@ -1,0 +1,18 @@
+{
+  "id": "b",
+  "name": "Toyota B",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4",
+  "displacement_l": 3.0,
+  "stock_hp": 80,
+  "stock_tq_nm": 191,
+  "redline_rpm": 3800,
+  "weight_kg": 220,
+  "dimensions": { "length_mm": 700, "width_mm": 620, "height_mm": 650 },
+  "dimension_source": "estimated",
+  "factory_frames": ["bj40", "bj43"],
+  "bellhousing_pattern": "toyota-diesel-i4-classic",
+  "control": "mechanical",
+  "notes": "Toyota's original 40-series diesel; naturally aspirated, mechanical injection pump. Superseded by 2B, then 3B."
+}

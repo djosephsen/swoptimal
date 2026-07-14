@@ -1,0 +1,15 @@
+{
+  "id": "hzj70",
+  "name": "Land Cruiser HZJ70",
+  "series": "70-series",
+  "years": "1990-1999",
+  "body_style": "2/3-door short-wheelbase hardtop wagon / cab-chassis pickup, leaf-sprung front axle",
+  "stock_engine": "1hz",
+  "stock_transmission": "H55F 5-speed manual (likely, unconfirmed for this specific code)",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Years and SWB body well corroborated; curb weight/diff/tire could not be verified for this exact code."
+}

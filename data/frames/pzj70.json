@@ -1,0 +1,15 @@
+{
+  "id": "pzj70",
+  "name": "Land Cruiser PZJ70",
+  "series": "70-series",
+  "years": "1990-1994",
+  "body_style": "short-wheelbase 2-door hardtop",
+  "stock_engine": "1pz",
+  "stock_transmission": "5-speed manual, believed H55F (not confirmed model-specific)",
+  "curb_weight_kg": 1760,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Existence and engine confirmed by Wikipedia/auto-data.net. Curb weight from a secondary aggregator, not a primary Toyota document. Diff ratio/tire size unverified - don't assume same as RJ70's petrol-spec figures."
+}

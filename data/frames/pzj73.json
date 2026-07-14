@@ -1,0 +1,15 @@
+{
+  "id": "pzj73",
+  "name": "Land Cruiser PZJ73",
+  "series": "70-series",
+  "years": "1990-1996 (approximate, inferred from shared production window with PZJ70/75/77)",
+  "body_style": "medium-wheelbase hardtop",
+  "stock_engine": "1pz",
+  "stock_transmission": "5-speed manual (not independently confirmed for this code)",
+  "curb_weight_kg": 1800,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Existence confirmed via Wikipedia's PZ-engine article grouping PZJ70/73/75/77 as a set, corroborated by parts-catalog listings. No dedicated spec page found - engine specs interpolated from PZJ70/75."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bj60",
+  "name": "Land Cruiser BJ60",
+  "series": "60-series",
+  "years": "1980-1986",
+  "body_style": "4/5-door station wagon",
+  "stock_engine": "3b",
+  "stock_transmission": "H42 4-speed manual (H41F/H42F, A440F automatic, and H55F 5-speed also cited in some markets)",
+  "curb_weight_kg": 1926,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": "7.00R15LT or 215R15",
+  "dimension_source": "estimated",
+  "notes": "Diesel counterpart to the gas FJ60/FJ62 on the same 60-series body - reusing that body's bay envelope. Never offered with a turbo despite some sources conflating it with 70-series 13B-T options. Years/hp have some source disagreement."
+}

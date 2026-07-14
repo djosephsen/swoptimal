@@ -1,0 +1,15 @@
+{
+  "id": "fj70",
+  "name": "Land Cruiser FJ70",
+  "series": "70-series",
+  "years": "1984-1992 (approximate)",
+  "body_style": "short wheelbase (2,310mm), pickup and 3-5 door wagon variants",
+  "stock_engine": "3f",
+  "stock_transmission": "5-speed manual (code unconfirmed for 70-series)",
+  "curb_weight_kg": 1780,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Gas-carbureted 70-series - relatively short-lived/niche compared to its diesel siblings (HZJ70/BJ70), which dominate surviving population and parts availability."
+}

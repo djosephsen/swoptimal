@@ -1,0 +1,15 @@
+{
+  "id": "bj44",
+  "name": "Land Cruiser BJ44",
+  "series": "40-series",
+  "years": "1979-1982",
+  "body_style": "medium wheelbase hardtop wagon (BJ44V) or soft-top",
+  "stock_engine": "2b",
+  "stock_transmission": "H41 4-speed manual (5-speed available from 1982)",
+  "curb_weight_kg": 1775,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.875,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Uses the 2B engine, not B or 3B as often assumed - multiple sources agree on this. Diff ratio (4.875) is from a single source and notably differs from sibling codes' 4.11 - unconfirmed elsewhere, treat with caution."
+}

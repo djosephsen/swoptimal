@@ -1,0 +1,18 @@
+{
+  "id": "2b",
+  "name": "Toyota 2B",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4",
+  "displacement_l": 3.2,
+  "stock_hp": 91,
+  "stock_tq_nm": 215,
+  "redline_rpm": 3800,
+  "weight_kg": 230,
+  "dimensions": { "length_mm": 720, "width_mm": 630, "height_mm": 660 },
+  "dimension_source": "estimated",
+  "factory_frames": ["bj41", "bj44"],
+  "bellhousing_pattern": "toyota-diesel-i4-classic",
+  "control": "mechanical",
+  "notes": "Bored-out successor to the B, naturally aspirated, mechanical injection pump."
+}

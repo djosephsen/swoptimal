@@ -13,5 +13,6 @@
   "dimension_source": "estimated",
   "factory_frames": [],
   "bellhousing_pattern": "cummins-r28-native",
-  "notes": "Crate diesel marketed specifically for 4x4 repower/swap use; torque is factory-limited on the stock ECU tune to protect period-correct drivelines."
+  "control": "electronic",
+  "notes": "Crate diesel marketed specifically for 4x4 repower/swap use; torque is factory-limited on the stock ECU tune to protect period-correct drivelines. Modern common-rail with its own ECU."
 }

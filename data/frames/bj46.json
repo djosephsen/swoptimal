@@ -1,0 +1,15 @@
+{
+  "id": "bj46",
+  "name": "Land Cruiser BJ46",
+  "series": "40-series",
+  "years": "1982-1985 (approximate)",
+  "body_style": "medium wheelbase wagon (V-suffix), full-floating front/rear axles",
+  "stock_engine": "3b",
+  "stock_transmission": "H55F 5-speed manual (one documented unit shows a 4-speed)",
+  "curb_weight_kg": 1775,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.111,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Successor to BJ44. Curb weight shares the same figure as BJ43/BJ44 on a single source - possible data reuse, treat as approximate."
+}

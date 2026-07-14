@@ -1,0 +1,18 @@
+{
+  "id": "3f",
+  "name": "Toyota 3F",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "I6",
+  "displacement_l": 3.955,
+  "stock_hp": 137,
+  "stock_tq_nm": 303,
+  "redline_rpm": 4400,
+  "weight_kg": 225,
+  "dimensions": { "length_mm": 880, "width_mm": 680, "height_mm": 660 },
+  "dimension_source": "estimated",
+  "factory_frames": ["fj61", "fj62v", "fj70", "fj73", "fj75"],
+  "bellhousing_pattern": "toyota-gas-i6",
+  "control": "mechanical",
+  "notes": "Carbureted successor to the 2F, no ECU. FJ61 straddles the 3F/3F-E era - treated here as 3F pending clearer per-unit confirmation."
+}

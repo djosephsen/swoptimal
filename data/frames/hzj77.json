@@ -1,0 +1,15 @@
+{
+  "id": "hzj77",
+  "name": "Land Cruiser HZJ77",
+  "series": "70-series",
+  "years": "1993-1999",
+  "body_style": "4/5-door semi-long-wheelbase station wagon/van (predecessor to HZJ76), leaf-sprung front axle",
+  "stock_engine": "1hz",
+  "stock_transmission": "5-speed manual; 4-speed automatic optional",
+  "curb_weight_kg": 2000,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "2,000kg figure is for the HZJ77V-MNU variant; higher-trim HZJ77HV variants listed slightly heavier (2,080-2,090kg, +40kg for automatic)."
+}

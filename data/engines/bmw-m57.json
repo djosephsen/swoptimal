@@ -13,5 +13,6 @@
   "dimension_source": "estimated",
   "factory_frames": [],
   "bellhousing_pattern": "bmw-m5x",
-  "notes": "A verified real-world swap into an LJ78 used a 2003 E39 530d donor (see cataloged build). Distinct from the gas M52B28 already seeded - shares BMW's period bellhousing family but is a turbodiesel, not gas."
+  "control": "electronic",
+  "notes": "A verified real-world swap into an LJ78 used a 2003 E39 530d donor (see cataloged build). Distinct from the gas M52B28 already seeded - shares BMW's period bellhousing family but is a turbodiesel, not gas. Common-rail with its own ECU/DDE - that real build kept the donor's intact harness/ECU/pedal for exactly this reason."
 }

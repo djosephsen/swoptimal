@@ -1,0 +1,15 @@
+{
+  "id": "hdj78",
+  "name": "Land Cruiser HDJ78",
+  "series": "70-series",
+  "years": "1999-2007",
+  "body_style": "troop carrier, long wheelbase",
+  "stock_engine": "1hd-fte",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 2300,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.1,
+  "stock_tire_size": "225/95R16",
+  "dimension_source": "estimated",
+  "notes": "Uses the non-intercooled 70-series tune of the 1HD-FTE (vs. the intercooled 100-series version of the same engine code, which is a different, out-of-scope chassis generation). 78=troop carrier, 79=pickup, per Toyota's 1999 model-number rename of the long-wheelbase 70-series."
+}

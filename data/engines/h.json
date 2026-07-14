@@ -1,0 +1,18 @@
+{
+  "id": "h",
+  "name": "Toyota H",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6",
+  "displacement_l": 3.6,
+  "stock_hp": 93,
+  "stock_tq_nm": 210,
+  "redline_rpm": 3800,
+  "weight_kg": 250,
+  "dimensions": { "length_mm": 900, "width_mm": 680, "height_mm": 660 },
+  "dimension_source": "estimated",
+  "factory_frames": ["hj45"],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "control": "mechanical",
+  "notes": "Toyota's original inline-6 diesel, predecessor to 2H/12H-T/1HZ/1HD-T. Naturally aspirated, mechanical injection pump."
+}

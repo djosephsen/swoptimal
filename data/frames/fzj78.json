@@ -1,0 +1,15 @@
+{
+  "id": "fzj78",
+  "name": "Land Cruiser FZJ78",
+  "series": "70-series",
+  "years": "1999-2006 in Australia (confirmed - last petrol units withdrawn May 2006 as \"FZJ78R-RJMRKQ\"); continued to ~2009 in other petrol markets before the 1FZ-FE was replaced by the 1GR-FE V6",
+  "body_style": "3-door long-wheelbase (~2980mm) troop carrier hardtop",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "H151F 5-speed manual",
+  "curb_weight_kg": 2100,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.1,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "The Australian end-of-sale date is a specific, sourced fact. Curb weight is the weakest field here - don't reuse figures from the later diesel-only generation, which is a different vehicle era entirely."
+}

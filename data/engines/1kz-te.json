@@ -11,7 +11,8 @@
   "weight_kg": 190,
   "dimensions": { "length_mm": 660, "width_mm": 600, "height_mm": 620 },
   "dimension_source": "estimated",
-  "factory_frames": [],
+  "factory_frames": ["kzj71", "kzj78"],
   "bellhousing_pattern": "toyota-diesel-i4",
-  "notes": "Factory engine in successor Prado 90-series (KZJ) chassis sharing this body/bay family — treated as a bolt-in for lj78 (see fitment overrides), not stock here."
+  "control": "electronic",
+  "notes": "Factory engine in successor Prado 90-series (KZJ) chassis sharing this body/bay family — treated as a bolt-in for lj78 (see fitment overrides), not stock there. Electronic injection pump - a failed real-world LJ78 swap (see cataloged build) traced directly to running it off the older 2L-TE's ECU instead of its own."
 }

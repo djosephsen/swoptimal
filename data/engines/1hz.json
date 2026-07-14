@@ -11,7 +11,8 @@
   "weight_kg": 260,
   "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 680 },
   "dimension_source": "estimated",
-  "factory_frames": ["hzj78", "hzj79"],
+  "factory_frames": ["hzj78", "hzj79", "hzj70", "hzj71", "hzj73", "hzj74", "hzj75", "hzj76", "hzj77", "hzj81"],
   "bellhousing_pattern": "toyota-diesel-i6",
-  "notes": ""
+  "control": "mechanical",
+  "notes": "Mechanical injection pump, no ECU - one of the simpler engines to run standalone in a swap."
 }

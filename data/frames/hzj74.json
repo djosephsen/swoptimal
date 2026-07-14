@@ -1,0 +1,15 @@
+{
+  "id": "hzj74",
+  "name": "Land Cruiser HZJ74",
+  "series": "70-series",
+  "years": "1999-2004",
+  "body_style": "middle-wheelbase, successor to HZJ73 post-1999 facelift (coil-sprung front)",
+  "stock_engine": "1hz",
+  "stock_transmission": "5-speed manual standard; 4-speed automatic optional on some variants",
+  "curb_weight_kg": 2010,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Curb weight is LX trim (+40kg for auto), from a search-aggregated spec rather than a primary factory sheet."
+}

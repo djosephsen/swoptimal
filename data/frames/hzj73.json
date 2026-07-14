@@ -1,0 +1,15 @@
+{
+  "id": "hzj73",
+  "name": "Land Cruiser HZJ73",
+  "series": "70-series",
+  "years": "1990-1999",
+  "body_style": "3-door middle-wheelbase hardtop wagon, leaf-sprung front axle; never sold in the US",
+  "stock_engine": "1hz",
+  "stock_transmission": "H55F 5-speed manual; 4-speed automatic optional",
+  "curb_weight_kg": 1950,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "1,950kg is for LX trim; ZX trim reported at 2,020kg, +40kg for the automatic."
+}

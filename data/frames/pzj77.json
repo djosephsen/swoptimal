@@ -1,0 +1,15 @@
+{
+  "id": "pzj77",
+  "name": "Land Cruiser PZJ77",
+  "series": "70-series",
+  "years": "1990-1996 (Japan-domestic sightings concentrated ~1991-1993)",
+  "body_style": "long-wheelbase 4-door wagon",
+  "stock_engine": "1pz",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 1900,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Existence well confirmed (Wikipedia, auto-data.net, Land Cruiser Heritage Museum survivor - an ex-Japanese fire-command vehicle, ih8mud). Described as largely Japan-only. Curb weight figures found online couldn't be traced to a primary source, so a conservative estimate is used instead."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fj45",
+  "name": "Land Cruiser FJ45",
+  "series": "40-series",
+  "years": "1960-1984",
+  "body_style": "long wheelbase (2,650-2,950mm); 4-door wagon (to 1967), 2-door hardtop, 2-door pickup",
+  "stock_engine": "2f",
+  "stock_transmission": "H55F 5-speed manual (parts-compatible; earlier years unconfirmed)",
+  "curb_weight_kg": 1600,
+  "engine_bay": { "length_mm": 860, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "The 4-door wagon body (FJ45V/LV) was discontinued in 1967 and replaced by the dedicated FJ55 wagon; pickup/hardtop continued to 1984."
+}

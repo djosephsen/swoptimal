@@ -1,0 +1,15 @@
+{
+  "id": "bj71",
+  "name": "Land Cruiser BJ71",
+  "series": "70-series",
+  "years": "~1987-1989",
+  "body_style": "short-wheelbase wagon, turbo-diesel",
+  "stock_engine": "13b-t",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 1835,
+  "engine_bay": { "length_mm": 800, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "205R16",
+  "dimension_source": "estimated",
+  "notes": "Turbo-diesel counterpart to BJ70. hp/torque figures conflict slightly between sources (120hp/217Nm vs 123hp/284Nm) - the lower figure is used here as the more widely corroborated one."
+}

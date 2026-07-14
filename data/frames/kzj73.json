@@ -1,0 +1,15 @@
+{
+  "id": "kzj73",
+  "name": "Land Cruiser Prado KZJ73",
+  "series": "70-series (Prado)",
+  "years": "1993-1996",
+  "body_style": "wagon (medium wheelbase, 2-door, FRP hardtop)",
+  "stock_engine": "1kz-t",
+  "stock_transmission": "5-speed manual (floor), 2-speed transfer case; coil-sprung",
+  "curb_weight_kg": 1950,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Confirmed Europe-only (LHD) model - direct successor to LJ73 with the 1KZ-T engine swap."
+}

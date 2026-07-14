@@ -1,0 +1,15 @@
+{
+  "id": "pzj75",
+  "name": "Land Cruiser PZJ75",
+  "series": "70-series",
+  "years": "1990-1996",
+  "body_style": "long-wheelbase pickup/troop carrier",
+  "stock_engine": "1pz",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Confirmed via a dedicated spec page (2,980mm wheelbase, 4,885mm length, 3-door/6-seat) and forum references alongside HZJ75. Curb weight/diff/tire not published on that source - estimated here."
+}

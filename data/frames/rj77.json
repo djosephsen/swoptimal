@@ -1,0 +1,15 @@
+{
+  "id": "rj77",
+  "name": "Land Cruiser RJ77",
+  "series": "70-series",
+  "years": "documented production from at least 1991; broader run likely tracks the same c.1985-1996 window as other RJ codes",
+  "body_style": "long-wheelbase 4-door wagon",
+  "stock_engine": "22r",
+  "stock_transmission": "5-speed manual (one museum record lists '5F' - unclear if the same physical unit as RJ70's G52, or a distinct regional part code)",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Existence confirmed by an actual VIN'd museum unit (GCC/Middle East market) and an ih8mud for-sale listing. No factory weight/diff/tire data located for this specific code. Note: RJ75 was searched for and could NOT be verified as a real code - period parts catalogs consistently list the petrol RJ-series as just RJ70/RJ73/RJ77, so it was not added."
+}

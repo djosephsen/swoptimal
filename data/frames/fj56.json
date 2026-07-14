@@ -1,0 +1,15 @@
+{
+  "id": "fj56",
+  "name": "Land Cruiser FJ56",
+  "series": "55-series",
+  "years": "1975-1980",
+  "body_style": "4-door station wagon, 2,700mm wheelbase - same body as FJ55",
+  "stock_engine": "2f",
+  "stock_transmission": "4-speed manual",
+  "curb_weight_kg": 1810,
+  "engine_bay": { "length_mm": 900, "width_mm": 710, "height_mm": 680 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "JDM-only chassis code Toyota assigned to the FJ55 body once it got the 2F engine in 1975 - export markets kept calling it FJ55. A naming distinction, not a mechanically different model - treat as identical to the post-1975 FJ55."
+}

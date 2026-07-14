@@ -1,0 +1,15 @@
+{
+  "id": "bj41",
+  "name": "Land Cruiser BJ41",
+  "series": "40-series",
+  "years": "1979-1981",
+  "body_style": "2-door hardtop/soft-top, short wheelbase (JDM-only, never factory-exported)",
+  "stock_engine": "2b",
+  "stock_transmission": "4-speed manual",
+  "curb_weight_kg": 1780,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Rare JDM-only code between BJ40 (B engine) and BJ42 (3B engine) - confirmed real via VIN records and Toyota EPC, but absent from English Wikipedia. Curb weight is an estimate from sibling BJ40/42."
+}

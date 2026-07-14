@@ -1,0 +1,15 @@
+{
+  "id": "hzj81",
+  "name": "Land Cruiser HZJ81",
+  "series": "80-series",
+  "years": "1990-1997",
+  "body_style": "5-door station wagon, full-time 4WD, same body as HZJ80",
+  "stock_engine": "1hz",
+  "stock_transmission": "5-speed manual (LSD-equipped per some listings); automatic optional in some markets",
+  "curb_weight_kg": 2105,
+  "engine_bay": { "length_mm": 980, "width_mm": 760, "height_mm": 720 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "215/80R16",
+  "dimension_source": "estimated",
+  "notes": "Confirmed real, distinct factory code (Toyota/JDM parts catalogs, dealer chassis-code listings) - but the exact engineering/market distinction from HZJ80 is unresolved even among long-time enthusiasts. Best-supported theory: JDM/Middle-East/Europe-market allocation of the same generation, not a different wheelbase or later facelift. Treat as effectively the same drivetrain family as HZJ80."
+}

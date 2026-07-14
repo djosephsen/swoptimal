@@ -1,0 +1,15 @@
+{
+  "id": "lj72",
+  "name": "Land Cruiser Prado LJ72",
+  "series": "70-series (Prado)",
+  "years": "circa 1990-1996",
+  "body_style": "wagon (short wheelbase, 2/3-door)",
+  "stock_engine": "3l",
+  "stock_transmission": "4-speed manual (differs from the 5-speed used on other LJ70/71/73 grades)",
+  "curb_weight_kg": 1700,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Verified real via OEM parts catalogs and multiple owner threads, distinct from other LJ codes by using the cheaper non-turbo 3L instead of 2L-T/2L-TE - a budget/export-market variant (Southeast Asia/Eastern Europe presence reported). Factory rim reported as 15x7in."
+}

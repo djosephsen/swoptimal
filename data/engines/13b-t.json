@@ -13,5 +13,6 @@
   "dimension_source": "estimated",
   "factory_frames": [],
   "bellhousing_pattern": "toyota-diesel-i4",
-  "notes": "Originally a Dyna/Coaster truck engine, not a factory Land Cruiser fitment — a well-documented swap into 4-cylinder-bay 70-series chassis."
+  "control": "mechanical",
+  "notes": "Originally a Dyna/Coaster truck engine, not a factory Land Cruiser fitment — a well-documented swap into 4-cylinder-bay 70-series chassis. Mechanical injection pump (no E suffix), no ECU."
 }

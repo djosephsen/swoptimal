@@ -13,5 +13,6 @@
   "dimension_source": "estimated",
   "factory_frames": ["fzj80"],
   "bellhousing_pattern": "toyota-gas-i6",
-  "notes": ""
+  "control": "electronic",
+  "notes": "Electronic fuel injection with its own ECU."
 }

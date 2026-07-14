@@ -1,0 +1,15 @@
+{
+  "id": "fj73",
+  "name": "Land Cruiser FJ73",
+  "series": "70-series",
+  "years": "1985-1992",
+  "body_style": "medium wheelbase (~2,600mm)",
+  "stock_engine": "3f",
+  "stock_transmission": "5-speed manual (code unconfirmed); 4-speed automatic available on some units",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "One of the few 70-series gas variants explicitly documented as available with a 4-speed automatic."
+}

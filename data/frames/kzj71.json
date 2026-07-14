@@ -1,0 +1,15 @@
+{
+  "id": "kzj71",
+  "name": "Land Cruiser Prado KZJ71",
+  "series": "70-series (Prado)",
+  "years": "1993-1996",
+  "body_style": "wagon (short wheelbase, 2/3-door; narrow-body 'G' and wide-body 'W' trims both seen)",
+  "stock_engine": "1kz-te",
+  "stock_transmission": "5-speed manual (floor) or 4-speed automatic",
+  "curb_weight_kg": 1900,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "JDM 'Prado SX' trim - direct successor to LJ71 when the 1KZ-TE replaced the 2L-TE in May 1993."
+}

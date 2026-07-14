@@ -1,0 +1,15 @@
+{
+  "id": "kzj77",
+  "name": "Land Cruiser Prado KZJ77",
+  "series": "70-series (Prado)",
+  "years": "1993-1996",
+  "body_style": "wagon (long wheelbase, 4-door, up to 9 seats w/ rear jump seats)",
+  "stock_engine": "1kz-t",
+  "stock_transmission": "5-speed manual (floor)",
+  "curb_weight_kg": 2000,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Engine inferred from the KZJ70/73/77 pattern (non-EFI 1KZ-T) rather than independently confirmed for this exact code. Its precise relationship to KZJ78 (narrow vs. wide body) isn't fully resolved across sources."
+}

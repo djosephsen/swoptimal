@@ -1,0 +1,15 @@
+{
+  "id": "bj40",
+  "name": "Land Cruiser BJ40",
+  "series": "40-series",
+  "years": "1974-1980",
+  "body_style": "2-door hardtop/soft-top, short wheelbase",
+  "stock_engine": "b",
+  "stock_transmission": "H41/H42 4-speed manual",
+  "curb_weight_kg": 1755,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Diesel counterpart to the gas FJ40 on the same short-wheelbase 40-series body. Diff ratio is forum consensus, not factory-doc-confirmed; tire size unconfirmed."
+}

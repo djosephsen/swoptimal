@@ -1,0 +1,15 @@
+{
+  "id": "rj73",
+  "name": "Land Cruiser RJ73",
+  "series": "70-series",
+  "years": "1984-1989 (some sources imply production closer to 1984-1993 - exact end date uncertain)",
+  "body_style": "medium-wheelbase hardtop",
+  "stock_engine": "22r",
+  "stock_transmission": "5-speed manual, almost certainly G52 given RJ70's confirmed fitment (not stated on the primary source)",
+  "curb_weight_kg": 1700,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": "265/75R15",
+  "dimension_source": "estimated",
+  "notes": "Full spec sheet found for dimensions/wheelbase (2,600mm)/fuel tank/brakes/steering, but curb weight and diff ratio were explicitly listed as unavailable on that source."
+}

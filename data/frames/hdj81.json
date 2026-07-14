@@ -1,0 +1,15 @@
+{
+  "id": "hdj81",
+  "name": "Land Cruiser HDJ81",
+  "series": "80-series",
+  "years": "1990-1997 (JDM)",
+  "body_style": "wagon",
+  "stock_engine": "1hd-t",
+  "stock_transmission": "5-speed manual or A442F 4-speed automatic",
+  "curb_weight_kg": 2250,
+  "engine_bay": { "length_mm": 980, "width_mm": 760, "height_mm": 720 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "275/70R16",
+  "dimension_source": "estimated",
+  "notes": "Confirmed real via VINs and OEM parts catalogs (distinct from HDJ80 in Toyota's own model-code system), but NOT independently corroborated by Wikipedia's J80 article, which only names HDJ80R. Best-supported theory: a JDM/Europe-market code for the same generation, not a different wheelbase or later facelift. Spans both the 1HD-T (1990-95) and 1HD-FT (1995-97) engine eras - mapped here to the already-seeded 1HD-T for simplicity. Treat as effectively the same drivetrain family as HDJ80 unless JDM-specific trim distinctions matter to you."
+}

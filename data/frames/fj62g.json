@@ -1,0 +1,15 @@
+{
+  "id": "fj62g",
+  "name": "Land Cruiser FJ62G",
+  "series": "60-series",
+  "years": "circa 1986-1987",
+  "body_style": "4-door wagon (JDM 'VX' grade trim), same body as FJ62",
+  "stock_engine": "3f-e",
+  "stock_transmission": "4-speed automatic likely available (A440F/A440L family); manual availability unconfirmed for this grade",
+  "curb_weight_kg": 1900,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "225/75R15",
+  "dimension_source": "estimated",
+  "notes": "JDM sub-code distinguished from FJ62V by its fuel-injected 3F-E, giving Toyota a passenger-class trim to sell in Japan. Weight/diff/tire inherited from the already-seeded FJ62 as a placeholder, not independently confirmed for this specific grade."
+}

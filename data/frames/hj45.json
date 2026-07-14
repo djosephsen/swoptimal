@@ -1,0 +1,15 @@
+{
+  "id": "hj45",
+  "name": "Land Cruiser HJ45",
+  "series": "40-series",
+  "years": "1972-1980",
+  "body_style": "troop carrier / pickup, long wheelbase",
+  "stock_engine": "h",
+  "stock_transmission": "H41/H42 4-speed manual (exact code for this era unconfirmed)",
+  "curb_weight_kg": 2040,
+  "engine_bay": { "length_mm": 860, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Diff ratio and weight are inferred from parts-compatibility/owner-reported figures across the era, not a single factory spec sheet."
+}

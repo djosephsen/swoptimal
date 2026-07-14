@@ -1,0 +1,15 @@
+{
+  "id": "bj45",
+  "name": "Land Cruiser BJ45",
+  "series": "40-series",
+  "years": "~1977-1984 (exact window unresolved across sources)",
+  "body_style": "long wheelbase pickup or troop carrier",
+  "stock_engine": "3b",
+  "stock_transmission": "H42 4-speed manual (H55F 5-speed was an aftermarket swap, not factory-stock)",
+  "curb_weight_kg": 1790,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "7.50x16",
+  "dimension_source": "estimated",
+  "notes": "Production-year range is genuinely unresolved between sources. Curb weight is an estimate from sibling codes - figures found elsewhere were for 2F/2H-engined J45 variants, not this B-family diesel."
+}

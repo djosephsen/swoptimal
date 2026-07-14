@@ -1,0 +1,15 @@
+{
+  "id": "bj75",
+  "name": "Land Cruiser BJ75",
+  "series": "70-series",
+  "years": "1984-1990",
+  "body_style": "long-wheelbase pickup/cab-chassis (troop carrier hardtop also existed on this platform)",
+  "stock_engine": "3b",
+  "stock_transmission": "5-speed manual with 2-speed transfer case",
+  "curb_weight_kg": 2025,
+  "engine_bay": { "length_mm": 800, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "205R16",
+  "dimension_source": "estimated",
+  "notes": "Heavier than its SWB/MWB siblings, consistent with the longer pickup body. Later (1990-96) J75 variants moved to the 1PZ five-cylinder diesel (see PZJ75)."
+}

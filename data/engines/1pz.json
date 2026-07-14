@@ -1,0 +1,18 @@
+{
+  "id": "1pz",
+  "name": "Toyota 1PZ",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I5",
+  "displacement_l": 3.469,
+  "stock_hp": 115,
+  "stock_tq_nm": 238,
+  "redline_rpm": 4000,
+  "weight_kg": 230,
+  "dimensions": { "length_mm": 850, "width_mm": 650, "height_mm": 650 },
+  "dimension_source": "estimated",
+  "factory_frames": ["pzj70", "pzj73", "pzj75", "pzj77"],
+  "bellhousing_pattern": "toyota-diesel-i5",
+  "control": "mechanical",
+  "notes": "Toyota's unusual 5-cylinder diesel, naturally aspirated, mechanical injection pump. A distinct bellhousing pattern from the I4/I6 diesel families."
+}

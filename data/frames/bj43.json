@@ -1,0 +1,15 @@
+{
+  "id": "bj43",
+  "name": "Land Cruiser BJ43",
+  "series": "40-series",
+  "years": "1974-1980",
+  "body_style": "2-door hardtop, medium wheelbase",
+  "stock_engine": "b",
+  "stock_transmission": "4-speed manual",
+  "curb_weight_kg": 1775,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.111,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Curb weight source also lists the same figure for BJ44/BJ46 - possibly a genuine shared-body coincidence or a copy-paste artifact in the source; treat as approximate."
+}

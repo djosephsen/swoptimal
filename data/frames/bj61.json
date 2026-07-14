@@ -1,0 +1,15 @@
+{
+  "id": "bj61",
+  "name": "Land Cruiser BJ61",
+  "series": "60-series",
+  "years": "~1982-1989 (fragmented sourcing)",
+  "body_style": "4/5-door station wagon (high-roof and low-roof configurations reported)",
+  "stock_engine": "3b",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 1926,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 3.7,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Same 3B block as BJ60 but a different (rotary/distributor-type) injection pump, reportedly milder output - no confirmed hp/torque figure found. Real but thinly documented; absent from Wikipedia entirely. Diff ratio is a single forum poster's explicitly-hedged estimate."
+}

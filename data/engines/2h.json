@@ -1,0 +1,18 @@
+{
+  "id": "2h",
+  "name": "Toyota 2H",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6",
+  "displacement_l": 4.0,
+  "stock_hp": 105,
+  "stock_tq_nm": 240,
+  "redline_rpm": 3800,
+  "weight_kg": 260,
+  "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 680 },
+  "dimension_source": "estimated",
+  "factory_frames": ["hj47", "hj60", "hj75"],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "control": "mechanical",
+  "notes": "Bored/stroked successor to the H, naturally aspirated, mechanical injection pump. Predecessor to 1HZ."
+}

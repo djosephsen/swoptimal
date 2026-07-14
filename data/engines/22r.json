@@ -1,0 +1,18 @@
+{
+  "id": "22r",
+  "name": "Toyota 22R",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "I4",
+  "displacement_l": 2.366,
+  "stock_hp": 108,
+  "stock_tq_nm": 185,
+  "redline_rpm": 5000,
+  "weight_kg": 165,
+  "dimensions": { "length_mm": 620, "width_mm": 580, "height_mm": 600 },
+  "dimension_source": "estimated",
+  "factory_frames": ["rj70", "rj73", "rj77"],
+  "bellhousing_pattern": "toyota-gas-i4",
+  "control": "mechanical",
+  "notes": "Carbureted, shared with contemporary Hilux/4Runner. No ECU."
+}

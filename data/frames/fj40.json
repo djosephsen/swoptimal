@@ -1,0 +1,15 @@
+{
+  "id": "fj40",
+  "name": "Land Cruiser FJ40",
+  "series": "40-series",
+  "years": "1960-1984",
+  "body_style": "2-door wagon/soft-top/hardtop, short wheelbase (2,285mm)",
+  "stock_engine": "2f",
+  "stock_transmission": "3-speed manual (1960-74); H41/H42 4-speed (1974-84); H55F 5-speed (1984+)",
+  "curb_weight_kg": 1540,
+  "engine_bay": { "length_mm": 860, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "The most iconic Land Cruiser code. Originally shipped with the earlier F engine (3.9L) before switching to 2F in 1975 - 2F used here as the single representative engine across both eras. Same body/frame as the diesel BJ40."
+}

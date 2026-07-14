@@ -1,0 +1,18 @@
+{
+  "id": "3l",
+  "name": "Toyota 3L",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4",
+  "displacement_l": 2.779,
+  "stock_hp": 90,
+  "stock_tq_nm": 190,
+  "redline_rpm": 4500,
+  "weight_kg": 175,
+  "dimensions": { "length_mm": 620, "width_mm": 580, "height_mm": 600 },
+  "dimension_source": "estimated",
+  "factory_frames": ["lj72", "lj79"],
+  "bellhousing_pattern": "toyota-diesel-i4",
+  "control": "mechanical",
+  "notes": "Naturally-aspirated, non-turbo diesel - a cheaper alternative to the 2L-T/2L-TE used in most other LJ-series Prados. Mechanical injection pump."
+}

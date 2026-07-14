@@ -1,0 +1,18 @@
+{
+  "id": "12h-t",
+  "name": "Toyota 12H-T",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6 turbo",
+  "displacement_l": 4.0,
+  "stock_hp": 135,
+  "stock_tq_nm": 315,
+  "redline_rpm": 3800,
+  "weight_kg": 270,
+  "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 690 },
+  "dimension_source": "estimated",
+  "factory_frames": ["hj61"],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "control": "mechanical",
+  "notes": "Turbocharged 2H, gear-driven timing, direct injection. Mechanical injection pump, no ECU - predates Toyota's electronically-controlled diesels."
+}

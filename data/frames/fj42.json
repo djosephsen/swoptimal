@@ -1,0 +1,15 @@
+{
+  "id": "fj42",
+  "name": "Land Cruiser FJ42",
+  "series": "40-series",
+  "years": "unconfirmed - overlaps FJ40's production window (1960s-1984)",
+  "body_style": "4x2 (rear-wheel-drive) short wheelbase, Middle East market only",
+  "stock_engine": "2f",
+  "stock_transmission": "presumed same as contemporary FJ40 (unconfirmed)",
+  "curb_weight_kg": 1540,
+  "engine_bay": { "length_mm": 860, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": null,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "IMPORTANT: this is a 2WD variant, breaking the 4x4 assumption most of this database makes - don't assume standard transfer-case/4x4 driveline logic applies. No independent spec sheet found beyond confirming it's a real, documented code."
+}

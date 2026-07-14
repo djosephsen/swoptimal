@@ -1,0 +1,15 @@
+{
+  "id": "hdj79",
+  "name": "Land Cruiser HDJ79",
+  "series": "70-series",
+  "years": "1999-2007 (double-cab variant added 2012, still under the 79 designation but out of scope for this pre-80-series-era database)",
+  "body_style": "pickup / cab-chassis, long wheelbase",
+  "stock_engine": "1hd-fte",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 2280,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.1,
+  "stock_tire_size": "225/95R16",
+  "dimension_source": "estimated",
+  "notes": "Same drivetrain family as HDJ78 in a pickup/cab-chassis body rather than troop carrier."
+}

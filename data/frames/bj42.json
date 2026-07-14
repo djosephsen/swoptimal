@@ -1,0 +1,15 @@
+{
+  "id": "bj42",
+  "name": "Land Cruiser BJ42",
+  "series": "40-series",
+  "years": "1980-1984",
+  "body_style": "2-door hardtop/soft-top, short wheelbase",
+  "stock_engine": "3b",
+  "stock_transmission": "H42 4-speed manual (1980-82), H55F 5-speed manual (1982-84)",
+  "curb_weight_kg": 1735,
+  "engine_bay": { "length_mm": 820, "width_mm": 700, "height_mm": 650 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "205R16",
+  "dimension_source": "estimated",
+  "notes": "Best-documented 40-series diesel code. Tire size (205R16) is an older flotation format, not parseable by the site's gearing calculator - a custom P-metric size in the form will still work."
+}

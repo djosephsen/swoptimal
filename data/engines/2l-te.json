@@ -11,7 +11,8 @@
   "weight_kg": 180,
   "dimensions": { "length_mm": 640, "width_mm": 590, "height_mm": 610 },
   "dimension_source": "estimated",
-  "factory_frames": ["lj78"],
+  "factory_frames": ["lj78", "lj70", "lj71", "lj73"],
   "bellhousing_pattern": "toyota-diesel-i4",
-  "notes": ""
+  "control": "electronic",
+  "notes": "The 'TE' suffix denotes Toyota's electronically-controlled injection pump generation - needs the donor ECU/harness, not just mechanical fuel/throttle linkages."
 }

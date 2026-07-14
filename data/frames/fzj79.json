@@ -1,0 +1,15 @@
+{
+  "id": "fzj79",
+  "name": "Land Cruiser FZJ79",
+  "series": "70-series",
+  "years": "1999-2006 in Australia (confirmed - last petrol units withdrawn May 2006 as \"FZJ79R-TJMRKQ3\"); continued to ~2009 in other petrol markets",
+  "body_style": "single/extra-cab pickup, long wheelbase (~2980mm)",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "H151F 5-speed manual",
+  "curb_weight_kg": 2050,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.1,
+  "stock_tire_size": "265/70R16",
+  "dimension_source": "estimated",
+  "notes": "The later 4-door dual-cab pickup body (introduced 2012) is diesel-only (HZJ/VDJ79) and was never offered under this petrol code - don't conflate. Weight is approximate; don't reuse modern diesel dual-cab figures, a different vehicle generation."
+}

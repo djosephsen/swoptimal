@@ -13,5 +13,6 @@
   "dimension_source": "estimated",
   "factory_frames": [],
   "bellhousing_pattern": "gm-ls",
-  "notes": "Popular V8 swap-in across many off-road platforms; wide but relatively short/light for its output."
+  "control": "electronic",
+  "notes": "Popular V8 swap-in across many off-road platforms; wide but relatively short/light for its output. Drive-by-wire ECU - needs the donor harness/ECU (or a standalone controller) and often a DBW-to-DBC conversion for older platforms."
 }

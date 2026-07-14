@@ -1,0 +1,15 @@
+{
+  "id": "kzj78",
+  "name": "Land Cruiser Prado KZJ78",
+  "series": "70-series (Prado)",
+  "years": "1993-1996",
+  "body_style": "wagon (long wheelbase, 4/5-door; G=narrow and W=wide body variants)",
+  "stock_engine": "1kz-te",
+  "stock_transmission": "5-speed manual (floor) or 4-speed automatic",
+  "curb_weight_kg": 1930,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "215/80R16 (narrow/G) or 265/70R15 (wide/W)",
+  "dimension_source": "estimated",
+  "notes": "Best-documented KZJ code. Replaced LJ78 in a May 1993 facelift. 1,930kg curb weight figure is specifically for the wide-body (KZJ78W)."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hj75",
+  "name": "Land Cruiser HJ75",
+  "series": "70-series",
+  "years": "1984-1990",
+  "body_style": "pickup / troop carrier, long wheelbase",
+  "stock_engine": "2h",
+  "stock_transmission": "4/5-speed manual (exact code unconfirmed)",
+  "curb_weight_kg": 2100,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Engine/years/diff ratio well corroborated across sources. Exact curb weight not found in a primary spec sheet - GVM of 3035kg was found instead, curb weight estimated from that."
+}

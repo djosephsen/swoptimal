@@ -1,0 +1,15 @@
+{
+  "id": "hzj71",
+  "name": "Land Cruiser HZJ71",
+  "series": "70-series",
+  "years": "1999-2004 (JDM; exact export-market end date unclear)",
+  "body_style": "3-door short-wheelbase hardtop, coil-sprung front axle (post-1999 facelift successor to HZJ70)",
+  "stock_engine": "1hz",
+  "stock_transmission": "H55F 5-speed manual (likely, unconfirmed)",
+  "curb_weight_kg": 1920,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Curb weight is from a specific 2004 JDM listing, not an official factory spec sheet."
+}

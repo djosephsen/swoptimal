@@ -1,0 +1,15 @@
+{
+  "id": "rj70",
+  "name": "Land Cruiser RJ70 (\"Bundera\" in Australia)",
+  "series": "70-series",
+  "years": "1984-1992",
+  "body_style": "short-wheelbase 2-door hardtop",
+  "stock_engine": "22r",
+  "stock_transmission": "G52 5-speed manual (same unit as the Hilux) - not confirmed universal across all markets",
+  "curb_weight_kg": 1650,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Diff ratio documented by an Australian aftermarket-parts reference as 4.3 (Nov1984-Oct1985 build) and 4.55 (Oct1985-Aug1992 build) - 4.3 used here, not confirmed to apply outside that market. Curb weight is an enthusiast-forum estimate, not a factory figure."
+}

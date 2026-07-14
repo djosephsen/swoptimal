@@ -1,0 +1,15 @@
+{
+  "id": "bj74",
+  "name": "Land Cruiser BJ74",
+  "series": "70-series",
+  "years": "~1984-1989",
+  "body_style": "medium-wheelbase troop carrier, turbo-diesel",
+  "stock_engine": "13b-t",
+  "stock_transmission": "H55F 5-speed manual or A440F 4-speed automatic",
+  "curb_weight_kg": 1835,
+  "engine_bay": { "length_mm": 800, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Turbo-diesel counterpart to BJ73. Engine figures agree cleanly across sources. Curb weight inferred from BJ73 by platform-sharing, not independently confirmed."
+}

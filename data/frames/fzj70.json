@@ -1,0 +1,15 @@
+{
+  "id": "fzj70",
+  "name": "Land Cruiser FZJ70",
+  "series": "70-series",
+  "years": "1990-1999 (pre-facelift narrow-body; some markets to 2001)",
+  "body_style": "2-door short-wheelbase (~2310mm) hardtop/wagon or soft-top",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "H150F 5-speed manual (no verified factory automatic)",
+  "curb_weight_kg": 1800,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "7.50R16",
+  "dimension_source": "estimated",
+  "notes": "1FZ-FE output/tune varied across 1990-2009 production (212-240hp depending on market/era) - baseline seeded 1fz-fe figures used here for consistency across all FZJ codes."
+}

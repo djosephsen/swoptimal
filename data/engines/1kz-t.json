@@ -1,0 +1,18 @@
+{
+  "id": "1kz-t",
+  "name": "Toyota 1KZ-T",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 2.982,
+  "stock_hp": 125,
+  "stock_tq_nm": 280,
+  "redline_rpm": 4500,
+  "weight_kg": 185,
+  "dimensions": { "length_mm": 660, "width_mm": 600, "height_mm": 620 },
+  "dimension_source": "estimated",
+  "factory_frames": ["kzj70", "kzj73", "kzj77"],
+  "bellhousing_pattern": "toyota-diesel-i4",
+  "control": "mechanical",
+  "notes": "Mechanical-injection (non-EFI) version of the 1KZ-TE, used in lighter-duty export/general-market Prado variants. Simpler to run standalone in a swap than the electronic 1KZ-TE."
+}

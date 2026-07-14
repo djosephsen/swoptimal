@@ -1,0 +1,15 @@
+{
+  "id": "fzj75",
+  "name": "Land Cruiser FZJ75",
+  "series": "70-series",
+  "years": "1993-1999 (replaced the carbureted 3F-powered FJ75 in 1993; single code covers both pickup and troop-carrier bodies)",
+  "body_style": "long wheelbase (~2980mm): cab-chassis pickup with tray, or troop carrier hardtop",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "H150F/H151F 5-speed manual",
+  "curb_weight_kg": 2000,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "7.50R16",
+  "dimension_source": "estimated",
+  "notes": "Best-documented of the SWB/MWB/older-LWB gas codes. Weight is approximate, inferred partly from a diesel HZJ75 sibling with non-stock aux tanks."
+}

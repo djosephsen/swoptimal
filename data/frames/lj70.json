@@ -1,0 +1,15 @@
+{
+  "id": "lj70",
+  "name": "Land Cruiser Prado LJ70",
+  "series": "70-series (Prado)",
+  "years": "1984-1996 (round-light pre-Prado-branding 1984-90, square-light 1990-96 sold alongside KZJ70)",
+  "body_style": "wagon (short wheelbase, 2-door)",
+  "stock_engine": "2l-te",
+  "stock_transmission": "5-speed manual (floor); coil-sprung front/rear, part-time 4WD, manual rear diff lock",
+  "curb_weight_kg": 1750,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Sources disagree on exact engine by year - some describe it continuing as a base/cheaper non-turbo (2L) trim alongside KZJ70 through 1996, others say the 2L/2L-T line was phased out by the 1993 1KZ update. 2L-TE used here as a representative engine; sold under various market names (Land Cruiser II, 'Bundera' in Australia)."
+}

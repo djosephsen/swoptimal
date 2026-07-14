@@ -1,0 +1,18 @@
+{
+  "id": "3b",
+  "name": "Toyota 3B",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4",
+  "displacement_l": 3.4,
+  "stock_hp": 90,
+  "stock_tq_nm": 217,
+  "redline_rpm": 3800,
+  "weight_kg": 240,
+  "dimensions": { "length_mm": 740, "width_mm": 640, "height_mm": 670 },
+  "dimension_source": "estimated",
+  "factory_frames": ["bj42", "bj45", "bj46", "bj60", "bj61", "bj70", "bj73", "bj75"],
+  "bellhousing_pattern": "toyota-diesel-i4-classic",
+  "control": "mechanical",
+  "notes": "The most widely-used classic B-family diesel across late 40/60/70-series - naturally aspirated, mechanical injection pump. hp/torque cited varies somewhat by year/injection-pump revision (roughly 90-98hp across sources); 90hp/217Nm used here as a representative baseline."
+}

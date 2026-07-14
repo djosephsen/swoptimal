@@ -1,0 +1,15 @@
+{
+  "id": "fj55",
+  "name": "Land Cruiser FJ55",
+  "series": "55-series",
+  "years": "1967-1980",
+  "body_style": "4-door station wagon, 2,700mm wheelbase - Toyota's first dedicated SUV-style wagon body",
+  "stock_engine": "2f",
+  "stock_transmission": "3-speed manual (1967-74); 4-speed manual (1975-80, exact code unconfirmed)",
+  "curb_weight_kg": 1810,
+  "engine_bay": { "length_mm": 900, "width_mm": 710, "height_mm": 680 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "H78-15",
+  "dimension_source": "estimated",
+  "notes": "Originally shipped with the F engine before switching to 2F in 1975 (2F used here as representative). Diff ratio changed to 3.70 late in the run (1978-80) per some sources - 4.11 used here as the longer-lived figure. Unique among FJ wagons for a tailgate-only rear (electric window, no separate hatch)."
+}

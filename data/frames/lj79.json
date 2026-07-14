@@ -1,0 +1,15 @@
+{
+  "id": "lj79",
+  "name": "Land Cruiser Prado LJ79",
+  "series": "70-series (Prado)",
+  "years": "circa 1993-1996 (very limited production - one documented batch of 7 units imported to India in 1996)",
+  "body_style": "wagon (long wheelbase, same body as LJ78)",
+  "stock_engine": "3l",
+  "stock_transmission": "4-speed manual with limited-slip rear differential",
+  "curb_weight_kg": 1950,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Thinly sourced (essentially one detailed owner account plus registry references) but confirmed real - described by an owner as 'same as a 78 but with a 3L' rather than the 2L-TE used on LJ78. Treat production-year range as low confidence."
+}

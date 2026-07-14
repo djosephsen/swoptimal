@@ -1,0 +1,15 @@
+{
+  "id": "fzj74",
+  "name": "Land Cruiser FZJ74",
+  "series": "70-series",
+  "years": "1999-~2004 (post-facelift wide-body, short production run)",
+  "body_style": "2-door middle-wheelbase hardtop wagon, wide-body facelift",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "H151F 5-speed manual",
+  "curb_weight_kg": 1950,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Confirmed real and rare/regional (frequently GCC-market). Weight/diff/tire not documented in sources found - flag for manual verification if precision matters."
+}

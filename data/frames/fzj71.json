@@ -1,0 +1,15 @@
+{
+  "id": "fzj71",
+  "name": "Land Cruiser FZJ71",
+  "series": "70-series",
+  "years": "1999-~2007 (post-facelift wide-body; rare/limited-market)",
+  "body_style": "2-door short-wheelbase hardtop, wide-body facelift",
+  "stock_engine": "1fz-fe",
+  "stock_transmission": "H151F 5-speed manual",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "A rare/regional variant with thin documentation - confirmed real but weight/diff/tire are estimates from sibling codes."
+}

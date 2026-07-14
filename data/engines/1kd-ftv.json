@@ -1,0 +1,18 @@
+{
+  "id": "1kd-ftv",
+  "name": "Toyota 1KD-FTV",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I4 turbo",
+  "displacement_l": 3.0,
+  "stock_hp": 170,
+  "stock_tq_nm": 410,
+  "redline_rpm": 4500,
+  "weight_kg": 210,
+  "dimensions": { "length_mm": 700, "width_mm": 600, "height_mm": 650 },
+  "dimension_source": "estimated",
+  "factory_frames": [],
+  "bellhousing_pattern": "toyota-diesel-i4-modern",
+  "control": "electronic",
+  "notes": "Modern common-rail D-4D diesel (Prado/Hilux/Fortuner-family, 2000-2015). Output varies significantly by market/year/emissions tune (roughly 134-188hp, 300-420Nm across variants) - 170hp/410Nm used here as a representative mid-range figure. Popular swap into older Land Cruisers for its reliability and torque, but its bellhousing pattern doesn't match the older 1HZ/1HD-T family - dedicated adapter/conversion kits exist for exactly this reason. Not factory-fitted to any of our seeded frames."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "3f-e",
+  "name": "Toyota 3F-E",
+  "family": "toyota",
+  "fuel": "gas",
+  "config": "I6",
+  "displacement_l": 3.955,
+  "stock_hp": 155,
+  "stock_tq_nm": 303,
+  "redline_rpm": 4600,
+  "weight_kg": 230,
+  "dimensions": { "length_mm": 880, "width_mm": 680, "height_mm": 660 },
+  "dimension_source": "estimated",
+  "factory_frames": ["fj62g"],
+  "bellhousing_pattern": "toyota-gas-i6",
+  "control": "electronic",
+  "notes": "Fuel-injected version of the 3F, with its own ECU - fitted to the JDM 'VX' grade FJ62G to let it be sold as a passenger-class vehicle in Japan."
+}

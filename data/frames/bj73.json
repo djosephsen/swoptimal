@@ -1,0 +1,15 @@
+{
+  "id": "bj73",
+  "name": "Land Cruiser BJ73",
+  "series": "70-series",
+  "years": "1984-1990",
+  "body_style": "medium-wheelbase hardtop wagon",
+  "stock_engine": "3b",
+  "stock_transmission": "H55F 5-speed manual with 2-speed transfer case",
+  "curb_weight_kg": 1835,
+  "engine_bay": { "length_mm": 800, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "205R16",
+  "dimension_source": "estimated",
+  "notes": "Best-documented 70-series BJ code, good multi-source agreement on engine figures. Some export units used an alternate VM 5-cylinder turbodiesel - not modeled here."
+}

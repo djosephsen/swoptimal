@@ -1,0 +1,18 @@
+{
+  "id": "1hd-fte",
+  "name": "Toyota 1HD-FTE (non-intercooled)",
+  "family": "toyota",
+  "fuel": "diesel",
+  "config": "I6 turbo",
+  "displacement_l": 4.164,
+  "stock_hp": 168,
+  "stock_tq_nm": 380,
+  "redline_rpm": 4200,
+  "weight_kg": 280,
+  "dimensions": { "length_mm": 900, "width_mm": 700, "height_mm": 700 },
+  "dimension_source": "estimated",
+  "factory_frames": ["hdj78", "hdj79"],
+  "bellhousing_pattern": "toyota-diesel-i6",
+  "control": "electronic",
+  "notes": "This is the non-intercooled 70-series tune of the 1HD-FTE - the 100-series version of the same engine code is intercooled and rated higher, but that chassis generation is out of scope here. Electronically controlled injection (ECU), unlike the earlier mechanical 1HD-T."
+}

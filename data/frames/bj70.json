@@ -1,0 +1,15 @@
+{
+  "id": "bj70",
+  "name": "Land Cruiser BJ70",
+  "series": "70-series",
+  "years": "~1984-1990 (conflicting sources)",
+  "body_style": "short-wheelbase wagon",
+  "stock_engine": "3b",
+  "stock_transmission": "5-speed manual",
+  "curb_weight_kg": 1770,
+  "engine_bay": { "length_mm": 800, "width_mm": 700, "height_mm": 670 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Naturally-aspirated diesel counterpart to the turbo BJ71 on the same SWB 70-series body. hp/torque varied somewhat by year due to an injection-pump change after 1986."
+}

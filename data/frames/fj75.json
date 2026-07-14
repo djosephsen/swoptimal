@@ -1,0 +1,15 @@
+{
+  "id": "fj75",
+  "name": "Land Cruiser FJ75",
+  "series": "70-series",
+  "years": "circa 1985-early 1990s",
+  "body_style": "long wheelbase (2,980-3,180mm), troop carrier and pickup body variants",
+  "stock_engine": "3f",
+  "stock_transmission": "5-speed manual (code unconfirmed)",
+  "curb_weight_kg": 2000,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Gas 3F variant was relatively short-lived/niche versus its diesel siblings (HJ75/HZJ75/PZJ75), which dominate the long-wheelbase 70-series population."
+}

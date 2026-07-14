@@ -13,5 +13,6 @@
   "dimension_source": "estimated",
   "factory_frames": [],
   "bellhousing_pattern": "bmw-m5x",
-  "notes": "A common swap into Central American LJ70-family chassis, often paired with the factory BMW 5-speed."
+  "control": "electronic",
+  "notes": "A common swap into Central American LJ70-family chassis, often paired with the factory BMW 5-speed. Electronic fuel injection with its own ECU/DME."
 }

@@ -1,0 +1,15 @@
+{
+  "id": "hzj76",
+  "name": "Land Cruiser HZJ76",
+  "series": "70-series",
+  "years": "1999-2004 (JDM run); reintroduced/continued for export markets from 2007",
+  "body_style": "5-door semi-long-wheelbase station wagon, hardtop, up to 10-seater",
+  "stock_engine": "1hz",
+  "stock_transmission": "H55F 5-speed manual; 4-speed automatic optional in some markets/years",
+  "curb_weight_kg": 2245,
+  "engine_bay": { "length_mm": 950, "width_mm": 750, "height_mm": 720 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": "7.50R16-8(E)",
+  "dimension_source": "estimated",
+  "notes": "Weight/diff/tire from a current-production factory export spec sheet; an older listing gives a lower ~2,190kg, likely an earlier/lighter trim."
+}

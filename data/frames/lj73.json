@@ -1,0 +1,15 @@
+{
+  "id": "lj73",
+  "name": "Land Cruiser Prado LJ73",
+  "series": "70-series (Prado)",
+  "years": "1990-1993",
+  "body_style": "wagon (medium wheelbase, 2-door, FRP hardtop)",
+  "stock_engine": "2l-te",
+  "stock_transmission": "5-speed manual (floor), 2-speed transfer case; 4-wheel disc brakes",
+  "curb_weight_kg": 1800,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Confirmed via Toyota's official lineage source and a documented original-condition survivor. Replaced by KZJ73 in May 1993."
+}

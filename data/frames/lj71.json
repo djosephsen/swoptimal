@@ -1,0 +1,15 @@
+{
+  "id": "lj71",
+  "name": "Land Cruiser Prado LJ71",
+  "series": "70-series (Prado)",
+  "years": "1990-1993",
+  "body_style": "wagon (short wheelbase, 2-door, JDM 'Prado SX5')",
+  "stock_engine": "2l-te",
+  "stock_transmission": "5-speed manual (floor) or 4-speed automatic; part-time 4WD, 2-speed transfer",
+  "curb_weight_kg": 1750,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Confirmed via Toyota's official 75-year vehicle lineage archive. Replaced by KZJ71 (1KZ-TE) from ~1993."
+}

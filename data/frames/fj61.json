@@ -1,0 +1,15 @@
+{
+  "id": "fj61",
+  "name": "Land Cruiser FJ61",
+  "series": "60-series",
+  "years": "disputed: 1984-1988 per one source, Oct 1982-Nov 1984 per another (bridging FJ60 and FJ62)",
+  "body_style": "4-door wagon, same body as FJ60/FJ62 (2,700mm wheelbase)",
+  "stock_engine": "3f",
+  "stock_transmission": "presumed H55F 5-speed manual, consistent with contemporary FJ60/62 (unconfirmed)",
+  "curb_weight_kg": 1850,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "Real code, but there's community debate about whether it was ever a distinct retail model vs. an internal/parts-catalog code bridging FJ60 to FJ62. No independently-sourced weight/diff/tire found - figures here are inherited from sibling FJ60/62."
+}

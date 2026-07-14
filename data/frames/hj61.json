@@ -1,0 +1,15 @@
+{
+  "id": "hj61",
+  "name": "Land Cruiser HJ61",
+  "series": "60-series",
+  "years": "1986-1990",
+  "body_style": "4/5-door wagon",
+  "stock_engine": "12h-t",
+  "stock_transmission": "H55F 5-speed manual (standard); A440F automatic optional",
+  "curb_weight_kg": 2200,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 3.7,
+  "stock_tire_size": "7.50R16-6PR LT or 10R15-6PR LT",
+  "dimension_source": "estimated",
+  "notes": "Turbo-diesel counterpart to HJ60. Well corroborated across sources - the best-documented of the H-family 60-series codes."
+}

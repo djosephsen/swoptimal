@@ -1,0 +1,15 @@
+{
+  "id": "fj62v",
+  "name": "Land Cruiser FJ62V",
+  "series": "60-series",
+  "years": "1984-1987",
+  "body_style": "4-door wagon (hardtop, 'V' suffix), same body as FJ62",
+  "stock_engine": "3f",
+  "stock_transmission": "5-speed manual standard, 4-speed automatic (A440F/A440L) optional",
+  "curb_weight_kg": 1900,
+  "engine_bay": { "length_mm": 950, "width_mm": 740, "height_mm": 700 },
+  "stock_diff_ratio": 4.11,
+  "stock_tire_size": "225/75R15",
+  "dimension_source": "estimated",
+  "notes": "Effectively the base/export-equivalent FJ62 under a JDM-style V suffix, distinguished from FJ62G mainly by carbureted 3F vs fuel-injected 3F-E. Weight/diff/tire inherited from the already-seeded FJ62."
+}

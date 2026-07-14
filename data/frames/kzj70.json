@@ -1,0 +1,15 @@
+{
+  "id": "kzj70",
+  "name": "Land Cruiser Prado KZJ70",
+  "series": "70-series (Prado)",
+  "years": "1993-1996",
+  "body_style": "wagon (short wheelbase, 2-door)",
+  "stock_engine": "1kz-t",
+  "stock_transmission": "5-speed manual (floor); coil-sprung front/rear",
+  "curb_weight_kg": 1900,
+  "engine_bay": { "length_mm": 780, "width_mm": 680, "height_mm": 650 },
+  "stock_diff_ratio": 4.3,
+  "stock_tire_size": null,
+  "dimension_source": "estimated",
+  "notes": "General export/European-market 'light duty' variant (vs. JDM-only KZJ71) - uses a smaller 8.0in rear diff vs. 9.5in on heavy-duty 70-series per forum consensus."
+}
